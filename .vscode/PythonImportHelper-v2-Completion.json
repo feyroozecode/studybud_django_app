@@ -3320,6 +3320,942 @@
         "documentation": {}
     },
     {
+        "label": "render",
+        "importPath": "django.shortcuts",
+        "description": "django.shortcuts",
+        "isExtraImport": true,
+        "detail": "django.shortcuts",
+        "documentation": {}
+    },
+    {
+        "label": "get_object_or_404",
+        "importPath": "django.shortcuts",
+        "description": "django.shortcuts",
+        "isExtraImport": true,
+        "detail": "django.shortcuts",
+        "documentation": {}
+    },
+    {
+        "label": "render",
+        "importPath": "django.shortcuts",
+        "description": "django.shortcuts",
+        "isExtraImport": true,
+        "detail": "django.shortcuts",
+        "documentation": {}
+    },
+    {
+        "label": "get_object_or_404",
+        "importPath": "django.shortcuts",
+        "description": "django.shortcuts",
+        "isExtraImport": true,
+        "detail": "django.shortcuts",
+        "documentation": {}
+    },
+    {
+        "label": "render",
+        "importPath": "django.shortcuts",
+        "description": "django.shortcuts",
+        "isExtraImport": true,
+        "detail": "django.shortcuts",
+        "documentation": {}
+    },
+    {
+        "label": "get_object_or_404",
+        "importPath": "django.shortcuts",
+        "description": "django.shortcuts",
+        "isExtraImport": true,
+        "detail": "django.shortcuts",
+        "documentation": {}
+    },
+    {
+        "label": "render",
+        "importPath": "django.shortcuts",
+        "description": "django.shortcuts",
+        "isExtraImport": true,
+        "detail": "django.shortcuts",
+        "documentation": {}
+    },
+    {
+        "label": "get_object_or_404",
+        "importPath": "django.shortcuts",
+        "description": "django.shortcuts",
+        "isExtraImport": true,
+        "detail": "django.shortcuts",
+        "documentation": {}
+    },
+    {
+        "label": "render",
+        "importPath": "django.shortcuts",
+        "description": "django.shortcuts",
+        "isExtraImport": true,
+        "detail": "django.shortcuts",
+        "documentation": {}
+    },
+    {
+        "label": "get_object_or_404",
+        "importPath": "django.shortcuts",
+        "description": "django.shortcuts",
+        "isExtraImport": true,
+        "detail": "django.shortcuts",
+        "documentation": {}
+    },
+    {
+        "label": "render",
+        "importPath": "django.shortcuts",
+        "description": "django.shortcuts",
+        "isExtraImport": true,
+        "detail": "django.shortcuts",
+        "documentation": {}
+    },
+    {
+        "label": "get_object_or_404",
+        "importPath": "django.shortcuts",
+        "description": "django.shortcuts",
+        "isExtraImport": true,
+        "detail": "django.shortcuts",
+        "documentation": {}
+    },
+    {
+        "label": "render",
+        "importPath": "django.shortcuts",
+        "description": "django.shortcuts",
+        "isExtraImport": true,
+        "detail": "django.shortcuts",
+        "documentation": {}
+    },
+    {
+        "label": "get_object_or_404",
+        "importPath": "django.shortcuts",
+        "description": "django.shortcuts",
+        "isExtraImport": true,
+        "detail": "django.shortcuts",
+        "documentation": {}
+    },
+    {
+        "label": "render",
+        "importPath": "django.shortcuts",
+        "description": "django.shortcuts",
+        "isExtraImport": true,
+        "detail": "django.shortcuts",
+        "documentation": {}
+    },
+    {
+        "label": "get_object_or_404",
+        "importPath": "django.shortcuts",
+        "description": "django.shortcuts",
+        "isExtraImport": true,
+        "detail": "django.shortcuts",
+        "documentation": {}
+    },
+    {
+        "label": "render",
+        "importPath": "django.shortcuts",
+        "description": "django.shortcuts",
+        "isExtraImport": true,
+        "detail": "django.shortcuts",
+        "documentation": {}
+    },
+    {
+        "label": "get_object_or_404",
+        "importPath": "django.shortcuts",
+        "description": "django.shortcuts",
+        "isExtraImport": true,
+        "detail": "django.shortcuts",
+        "documentation": {}
+    },
+    {
+        "label": "render",
+        "importPath": "django.shortcuts",
+        "description": "django.shortcuts",
+        "isExtraImport": true,
+        "detail": "django.shortcuts",
+        "documentation": {}
+    },
+    {
+        "label": "get_object_or_404",
+        "importPath": "django.shortcuts",
+        "description": "django.shortcuts",
+        "isExtraImport": true,
+        "detail": "django.shortcuts",
+        "documentation": {}
+    },
+    {
+        "label": "render",
+        "importPath": "django.shortcuts",
+        "description": "django.shortcuts",
+        "isExtraImport": true,
+        "detail": "django.shortcuts",
+        "documentation": {}
+    },
+    {
+        "label": "get_object_or_404",
+        "importPath": "django.shortcuts",
+        "description": "django.shortcuts",
+        "isExtraImport": true,
+        "detail": "django.shortcuts",
+        "documentation": {}
+    },
+    {
+        "label": "render",
+        "importPath": "django.shortcuts",
+        "description": "django.shortcuts",
+        "isExtraImport": true,
+        "detail": "django.shortcuts",
+        "documentation": {}
+    },
+    {
+        "label": "get_object_or_404",
+        "importPath": "django.shortcuts",
+        "description": "django.shortcuts",
+        "isExtraImport": true,
+        "detail": "django.shortcuts",
+        "documentation": {}
+    },
+    {
+        "label": "render",
+        "importPath": "django.shortcuts",
+        "description": "django.shortcuts",
+        "isExtraImport": true,
+        "detail": "django.shortcuts",
+        "documentation": {}
+    },
+    {
+        "label": "get_object_or_404",
+        "importPath": "django.shortcuts",
+        "description": "django.shortcuts",
+        "isExtraImport": true,
+        "detail": "django.shortcuts",
+        "documentation": {}
+    },
+    {
+        "label": "render",
+        "importPath": "django.shortcuts",
+        "description": "django.shortcuts",
+        "isExtraImport": true,
+        "detail": "django.shortcuts",
+        "documentation": {}
+    },
+    {
+        "label": "get_object_or_404",
+        "importPath": "django.shortcuts",
+        "description": "django.shortcuts",
+        "isExtraImport": true,
+        "detail": "django.shortcuts",
+        "documentation": {}
+    },
+    {
+        "label": "render",
+        "importPath": "django.shortcuts",
+        "description": "django.shortcuts",
+        "isExtraImport": true,
+        "detail": "django.shortcuts",
+        "documentation": {}
+    },
+    {
+        "label": "get_object_or_404",
+        "importPath": "django.shortcuts",
+        "description": "django.shortcuts",
+        "isExtraImport": true,
+        "detail": "django.shortcuts",
+        "documentation": {}
+    },
+    {
+        "label": "render",
+        "importPath": "django.shortcuts",
+        "description": "django.shortcuts",
+        "isExtraImport": true,
+        "detail": "django.shortcuts",
+        "documentation": {}
+    },
+    {
+        "label": "get_object_or_404",
+        "importPath": "django.shortcuts",
+        "description": "django.shortcuts",
+        "isExtraImport": true,
+        "detail": "django.shortcuts",
+        "documentation": {}
+    },
+    {
+        "label": "render",
+        "importPath": "django.shortcuts",
+        "description": "django.shortcuts",
+        "isExtraImport": true,
+        "detail": "django.shortcuts",
+        "documentation": {}
+    },
+    {
+        "label": "get_object_or_404",
+        "importPath": "django.shortcuts",
+        "description": "django.shortcuts",
+        "isExtraImport": true,
+        "detail": "django.shortcuts",
+        "documentation": {}
+    },
+    {
+        "label": "render",
+        "importPath": "django.shortcuts",
+        "description": "django.shortcuts",
+        "isExtraImport": true,
+        "detail": "django.shortcuts",
+        "documentation": {}
+    },
+    {
+        "label": "get_object_or_404",
+        "importPath": "django.shortcuts",
+        "description": "django.shortcuts",
+        "isExtraImport": true,
+        "detail": "django.shortcuts",
+        "documentation": {}
+    },
+    {
+        "label": "render",
+        "importPath": "django.shortcuts",
+        "description": "django.shortcuts",
+        "isExtraImport": true,
+        "detail": "django.shortcuts",
+        "documentation": {}
+    },
+    {
+        "label": "get_object_or_404",
+        "importPath": "django.shortcuts",
+        "description": "django.shortcuts",
+        "isExtraImport": true,
+        "detail": "django.shortcuts",
+        "documentation": {}
+    },
+    {
+        "label": "render",
+        "importPath": "django.shortcuts",
+        "description": "django.shortcuts",
+        "isExtraImport": true,
+        "detail": "django.shortcuts",
+        "documentation": {}
+    },
+    {
+        "label": "get_object_or_404",
+        "importPath": "django.shortcuts",
+        "description": "django.shortcuts",
+        "isExtraImport": true,
+        "detail": "django.shortcuts",
+        "documentation": {}
+    },
+    {
+        "label": "render",
+        "importPath": "django.shortcuts",
+        "description": "django.shortcuts",
+        "isExtraImport": true,
+        "detail": "django.shortcuts",
+        "documentation": {}
+    },
+    {
+        "label": "get_object_or_404",
+        "importPath": "django.shortcuts",
+        "description": "django.shortcuts",
+        "isExtraImport": true,
+        "detail": "django.shortcuts",
+        "documentation": {}
+    },
+    {
+        "label": "render",
+        "importPath": "django.shortcuts",
+        "description": "django.shortcuts",
+        "isExtraImport": true,
+        "detail": "django.shortcuts",
+        "documentation": {}
+    },
+    {
+        "label": "get_object_or_404",
+        "importPath": "django.shortcuts",
+        "description": "django.shortcuts",
+        "isExtraImport": true,
+        "detail": "django.shortcuts",
+        "documentation": {}
+    },
+    {
+        "label": "render",
+        "importPath": "django.shortcuts",
+        "description": "django.shortcuts",
+        "isExtraImport": true,
+        "detail": "django.shortcuts",
+        "documentation": {}
+    },
+    {
+        "label": "get_object_or_404",
+        "importPath": "django.shortcuts",
+        "description": "django.shortcuts",
+        "isExtraImport": true,
+        "detail": "django.shortcuts",
+        "documentation": {}
+    },
+    {
+        "label": "render",
+        "importPath": "django.shortcuts",
+        "description": "django.shortcuts",
+        "isExtraImport": true,
+        "detail": "django.shortcuts",
+        "documentation": {}
+    },
+    {
+        "label": "get_object_or_404",
+        "importPath": "django.shortcuts",
+        "description": "django.shortcuts",
+        "isExtraImport": true,
+        "detail": "django.shortcuts",
+        "documentation": {}
+    },
+    {
+        "label": "render",
+        "importPath": "django.shortcuts",
+        "description": "django.shortcuts",
+        "isExtraImport": true,
+        "detail": "django.shortcuts",
+        "documentation": {}
+    },
+    {
+        "label": "get_object_or_404",
+        "importPath": "django.shortcuts",
+        "description": "django.shortcuts",
+        "isExtraImport": true,
+        "detail": "django.shortcuts",
+        "documentation": {}
+    },
+    {
+        "label": "render",
+        "importPath": "django.shortcuts",
+        "description": "django.shortcuts",
+        "isExtraImport": true,
+        "detail": "django.shortcuts",
+        "documentation": {}
+    },
+    {
+        "label": "get_object_or_404",
+        "importPath": "django.shortcuts",
+        "description": "django.shortcuts",
+        "isExtraImport": true,
+        "detail": "django.shortcuts",
+        "documentation": {}
+    },
+    {
+        "label": "render",
+        "importPath": "django.shortcuts",
+        "description": "django.shortcuts",
+        "isExtraImport": true,
+        "detail": "django.shortcuts",
+        "documentation": {}
+    },
+    {
+        "label": "get_object_or_404",
+        "importPath": "django.shortcuts",
+        "description": "django.shortcuts",
+        "isExtraImport": true,
+        "detail": "django.shortcuts",
+        "documentation": {}
+    },
+    {
+        "label": "render",
+        "importPath": "django.shortcuts",
+        "description": "django.shortcuts",
+        "isExtraImport": true,
+        "detail": "django.shortcuts",
+        "documentation": {}
+    },
+    {
+        "label": "get_object_or_404",
+        "importPath": "django.shortcuts",
+        "description": "django.shortcuts",
+        "isExtraImport": true,
+        "detail": "django.shortcuts",
+        "documentation": {}
+    },
+    {
+        "label": "render",
+        "importPath": "django.shortcuts",
+        "description": "django.shortcuts",
+        "isExtraImport": true,
+        "detail": "django.shortcuts",
+        "documentation": {}
+    },
+    {
+        "label": "get_object_or_404",
+        "importPath": "django.shortcuts",
+        "description": "django.shortcuts",
+        "isExtraImport": true,
+        "detail": "django.shortcuts",
+        "documentation": {}
+    },
+    {
+        "label": "render",
+        "importPath": "django.shortcuts",
+        "description": "django.shortcuts",
+        "isExtraImport": true,
+        "detail": "django.shortcuts",
+        "documentation": {}
+    },
+    {
+        "label": "get_object_or_404",
+        "importPath": "django.shortcuts",
+        "description": "django.shortcuts",
+        "isExtraImport": true,
+        "detail": "django.shortcuts",
+        "documentation": {}
+    },
+    {
+        "label": "render",
+        "importPath": "django.shortcuts",
+        "description": "django.shortcuts",
+        "isExtraImport": true,
+        "detail": "django.shortcuts",
+        "documentation": {}
+    },
+    {
+        "label": "get_object_or_404",
+        "importPath": "django.shortcuts",
+        "description": "django.shortcuts",
+        "isExtraImport": true,
+        "detail": "django.shortcuts",
+        "documentation": {}
+    },
+    {
+        "label": "render",
+        "importPath": "django.shortcuts",
+        "description": "django.shortcuts",
+        "isExtraImport": true,
+        "detail": "django.shortcuts",
+        "documentation": {}
+    },
+    {
+        "label": "get_object_or_404",
+        "importPath": "django.shortcuts",
+        "description": "django.shortcuts",
+        "isExtraImport": true,
+        "detail": "django.shortcuts",
+        "documentation": {}
+    },
+    {
+        "label": "render",
+        "importPath": "django.shortcuts",
+        "description": "django.shortcuts",
+        "isExtraImport": true,
+        "detail": "django.shortcuts",
+        "documentation": {}
+    },
+    {
+        "label": "get_object_or_404",
+        "importPath": "django.shortcuts",
+        "description": "django.shortcuts",
+        "isExtraImport": true,
+        "detail": "django.shortcuts",
+        "documentation": {}
+    },
+    {
+        "label": "render",
+        "importPath": "django.shortcuts",
+        "description": "django.shortcuts",
+        "isExtraImport": true,
+        "detail": "django.shortcuts",
+        "documentation": {}
+    },
+    {
+        "label": "get_object_or_404",
+        "importPath": "django.shortcuts",
+        "description": "django.shortcuts",
+        "isExtraImport": true,
+        "detail": "django.shortcuts",
+        "documentation": {}
+    },
+    {
+        "label": "render",
+        "importPath": "django.shortcuts",
+        "description": "django.shortcuts",
+        "isExtraImport": true,
+        "detail": "django.shortcuts",
+        "documentation": {}
+    },
+    {
+        "label": "get_object_or_404",
+        "importPath": "django.shortcuts",
+        "description": "django.shortcuts",
+        "isExtraImport": true,
+        "detail": "django.shortcuts",
+        "documentation": {}
+    },
+    {
+        "label": "render",
+        "importPath": "django.shortcuts",
+        "description": "django.shortcuts",
+        "isExtraImport": true,
+        "detail": "django.shortcuts",
+        "documentation": {}
+    },
+    {
+        "label": "get_object_or_404",
+        "importPath": "django.shortcuts",
+        "description": "django.shortcuts",
+        "isExtraImport": true,
+        "detail": "django.shortcuts",
+        "documentation": {}
+    },
+    {
+        "label": "render",
+        "importPath": "django.shortcuts",
+        "description": "django.shortcuts",
+        "isExtraImport": true,
+        "detail": "django.shortcuts",
+        "documentation": {}
+    },
+    {
+        "label": "get_object_or_404",
+        "importPath": "django.shortcuts",
+        "description": "django.shortcuts",
+        "isExtraImport": true,
+        "detail": "django.shortcuts",
+        "documentation": {}
+    },
+    {
+        "label": "render",
+        "importPath": "django.shortcuts",
+        "description": "django.shortcuts",
+        "isExtraImport": true,
+        "detail": "django.shortcuts",
+        "documentation": {}
+    },
+    {
+        "label": "get_object_or_404",
+        "importPath": "django.shortcuts",
+        "description": "django.shortcuts",
+        "isExtraImport": true,
+        "detail": "django.shortcuts",
+        "documentation": {}
+    },
+    {
+        "label": "render",
+        "importPath": "django.shortcuts",
+        "description": "django.shortcuts",
+        "isExtraImport": true,
+        "detail": "django.shortcuts",
+        "documentation": {}
+    },
+    {
+        "label": "get_object_or_404",
+        "importPath": "django.shortcuts",
+        "description": "django.shortcuts",
+        "isExtraImport": true,
+        "detail": "django.shortcuts",
+        "documentation": {}
+    },
+    {
+        "label": "HttpResponse",
+        "importPath": "django.http",
+        "description": "django.http",
+        "isExtraImport": true,
+        "detail": "django.http",
+        "documentation": {}
+    },
+    {
+        "label": "HttpResponse",
+        "importPath": "django.http",
+        "description": "django.http",
+        "isExtraImport": true,
+        "detail": "django.http",
+        "documentation": {}
+    },
+    {
+        "label": "HttpResponse",
+        "importPath": "django.http",
+        "description": "django.http",
+        "isExtraImport": true,
+        "detail": "django.http",
+        "documentation": {}
+    },
+    {
+        "label": "HttpResponse",
+        "importPath": "django.http",
+        "description": "django.http",
+        "isExtraImport": true,
+        "detail": "django.http",
+        "documentation": {}
+    },
+    {
+        "label": "HttpResponse",
+        "importPath": "django.http",
+        "description": "django.http",
+        "isExtraImport": true,
+        "detail": "django.http",
+        "documentation": {}
+    },
+    {
+        "label": "HttpResponse",
+        "importPath": "django.http",
+        "description": "django.http",
+        "isExtraImport": true,
+        "detail": "django.http",
+        "documentation": {}
+    },
+    {
+        "label": "HttpResponse",
+        "importPath": "django.http",
+        "description": "django.http",
+        "isExtraImport": true,
+        "detail": "django.http",
+        "documentation": {}
+    },
+    {
+        "label": "HttpResponse",
+        "importPath": "django.http",
+        "description": "django.http",
+        "isExtraImport": true,
+        "detail": "django.http",
+        "documentation": {}
+    },
+    {
+        "label": "HttpResponse",
+        "importPath": "django.http",
+        "description": "django.http",
+        "isExtraImport": true,
+        "detail": "django.http",
+        "documentation": {}
+    },
+    {
+        "label": "HttpResponse",
+        "importPath": "django.http",
+        "description": "django.http",
+        "isExtraImport": true,
+        "detail": "django.http",
+        "documentation": {}
+    },
+    {
+        "label": "HttpResponse",
+        "importPath": "django.http",
+        "description": "django.http",
+        "isExtraImport": true,
+        "detail": "django.http",
+        "documentation": {}
+    },
+    {
+        "label": "HttpResponse",
+        "importPath": "django.http",
+        "description": "django.http",
+        "isExtraImport": true,
+        "detail": "django.http",
+        "documentation": {}
+    },
+    {
+        "label": "HttpResponse",
+        "importPath": "django.http",
+        "description": "django.http",
+        "isExtraImport": true,
+        "detail": "django.http",
+        "documentation": {}
+    },
+    {
+        "label": "HttpResponse",
+        "importPath": "django.http",
+        "description": "django.http",
+        "isExtraImport": true,
+        "detail": "django.http",
+        "documentation": {}
+    },
+    {
+        "label": "HttpResponse",
+        "importPath": "django.http",
+        "description": "django.http",
+        "isExtraImport": true,
+        "detail": "django.http",
+        "documentation": {}
+    },
+    {
+        "label": "HttpResponse",
+        "importPath": "django.http",
+        "description": "django.http",
+        "isExtraImport": true,
+        "detail": "django.http",
+        "documentation": {}
+    },
+    {
+        "label": "HttpResponse",
+        "importPath": "django.http",
+        "description": "django.http",
+        "isExtraImport": true,
+        "detail": "django.http",
+        "documentation": {}
+    },
+    {
+        "label": "HttpResponse",
+        "importPath": "django.http",
+        "description": "django.http",
+        "isExtraImport": true,
+        "detail": "django.http",
+        "documentation": {}
+    },
+    {
+        "label": "HttpResponse",
+        "importPath": "django.http",
+        "description": "django.http",
+        "isExtraImport": true,
+        "detail": "django.http",
+        "documentation": {}
+    },
+    {
+        "label": "HttpResponse",
+        "importPath": "django.http",
+        "description": "django.http",
+        "isExtraImport": true,
+        "detail": "django.http",
+        "documentation": {}
+    },
+    {
+        "label": "HttpResponse",
+        "importPath": "django.http",
+        "description": "django.http",
+        "isExtraImport": true,
+        "detail": "django.http",
+        "documentation": {}
+    },
+    {
+        "label": "HttpResponse",
+        "importPath": "django.http",
+        "description": "django.http",
+        "isExtraImport": true,
+        "detail": "django.http",
+        "documentation": {}
+    },
+    {
+        "label": "HttpResponse",
+        "importPath": "django.http",
+        "description": "django.http",
+        "isExtraImport": true,
+        "detail": "django.http",
+        "documentation": {}
+    },
+    {
+        "label": "HttpResponse",
+        "importPath": "django.http",
+        "description": "django.http",
+        "isExtraImport": true,
+        "detail": "django.http",
+        "documentation": {}
+    },
+    {
+        "label": "HttpResponse",
+        "importPath": "django.http",
+        "description": "django.http",
+        "isExtraImport": true,
+        "detail": "django.http",
+        "documentation": {}
+    },
+    {
+        "label": "HttpResponse",
+        "importPath": "django.http",
+        "description": "django.http",
+        "isExtraImport": true,
+        "detail": "django.http",
+        "documentation": {}
+    },
+    {
+        "label": "HttpResponse",
+        "importPath": "django.http",
+        "description": "django.http",
+        "isExtraImport": true,
+        "detail": "django.http",
+        "documentation": {}
+    },
+    {
+        "label": "HttpResponse",
+        "importPath": "django.http",
+        "description": "django.http",
+        "isExtraImport": true,
+        "detail": "django.http",
+        "documentation": {}
+    },
+    {
+        "label": "HttpResponse",
+        "importPath": "django.http",
+        "description": "django.http",
+        "isExtraImport": true,
+        "detail": "django.http",
+        "documentation": {}
+    },
+    {
+        "label": "HttpResponse",
+        "importPath": "django.http",
+        "description": "django.http",
+        "isExtraImport": true,
+        "detail": "django.http",
+        "documentation": {}
+    },
+    {
+        "label": "HttpResponse",
+        "importPath": "django.http",
+        "description": "django.http",
+        "isExtraImport": true,
+        "detail": "django.http",
+        "documentation": {}
+    },
+    {
+        "label": "HttpResponse",
+        "importPath": "django.http",
+        "description": "django.http",
+        "isExtraImport": true,
+        "detail": "django.http",
+        "documentation": {}
+    },
+    {
+        "label": "HttpResponse",
+        "importPath": "django.http",
+        "description": "django.http",
+        "isExtraImport": true,
+        "detail": "django.http",
+        "documentation": {}
+    },
+    {
+        "label": "HttpResponse",
+        "importPath": "django.http",
+        "description": "django.http",
+        "isExtraImport": true,
+        "detail": "django.http",
+        "documentation": {}
+    },
+    {
+        "label": "HttpResponse",
+        "importPath": "django.http",
+        "description": "django.http",
+        "isExtraImport": true,
+        "detail": "django.http",
+        "documentation": {}
+    },
+    {
+        "label": "HttpResponse",
+        "importPath": "django.http",
+        "description": "django.http",
+        "isExtraImport": true,
+        "detail": "django.http",
+        "documentation": {}
+    },
+    {
+        "label": "HttpResponse",
+        "importPath": "django.http",
+        "description": "django.http",
+        "isExtraImport": true,
+        "detail": "django.http",
+        "documentation": {}
+    },
+    {
+        "label": "HttpResponse",
+        "importPath": "django.http",
+        "description": "django.http",
+        "isExtraImport": true,
+        "detail": "django.http",
+        "documentation": {}
+    },
+    {
+        "label": "HttpResponse",
+        "importPath": "django.http",
+        "description": "django.http",
+        "isExtraImport": true,
+        "detail": "django.http",
+        "documentation": {}
+    },
+    {
         "label": "HttpResponse",
         "importPath": "django.http",
         "description": "django.http",
@@ -7617,6 +8553,1203 @@
         "documentation": {}
     },
     {
+        "label": "home",
+        "kind": 2,
+        "importPath": ".history.base.views_20231001144043",
+        "description": ".history.base.views_20231001144043",
+        "peekOfCode": "def home(request):\n    context = {'rooms': rooms}\n    return render(request, 'base/home.html', context)\ndef room(request, pk):\n    room = None\n    for i in rooms:\n        if i['id'] == int(pk):\n            room = i\n    context = { 'room': room }\n    return render(request, 'base/room.html', context)",
+        "detail": ".history.base.views_20231001144043",
+        "documentation": {}
+    },
+    {
+        "label": "room",
+        "kind": 2,
+        "importPath": ".history.base.views_20231001144043",
+        "description": ".history.base.views_20231001144043",
+        "peekOfCode": "def room(request, pk):\n    room = None\n    for i in rooms:\n        if i['id'] == int(pk):\n            room = i\n    context = { 'room': room }\n    return render(request, 'base/room.html', context)",
+        "detail": ".history.base.views_20231001144043",
+        "documentation": {}
+    },
+    {
+        "label": "rooms",
+        "kind": 5,
+        "importPath": ".history.base.views_20231001144043",
+        "description": ".history.base.views_20231001144043",
+        "peekOfCode": "rooms = [\n    { 'id': 1, 'name': 'Lets Learn VueJs' },\n    { 'id': 2, 'name': 'Create a Tuorial' },\n    { 'id': 3, 'name': 'Code my own Django Rest API' },\n]\ndef home(request):\n    context = {'rooms': rooms}\n    return render(request, 'base/home.html', context)\ndef room(request, pk):\n    room = None",
+        "detail": ".history.base.views_20231001144043",
+        "documentation": {}
+    },
+    {
+        "label": "home",
+        "kind": 2,
+        "importPath": ".history.base.views_20231001144056",
+        "description": ".history.base.views_20231001144056",
+        "peekOfCode": "def home(request):\n    context = {'rooms': rooms}\n    return render(request, 'base/home.html', context)\ndef room(request, pk):\n    room = None\n    for i in rooms:\n        if i['id'] == int(pk):\n            room = i\n    context = { 'room': room }\n    return render(request, 'base/room.html', context)",
+        "detail": ".history.base.views_20231001144056",
+        "documentation": {}
+    },
+    {
+        "label": "room",
+        "kind": 2,
+        "importPath": ".history.base.views_20231001144056",
+        "description": ".history.base.views_20231001144056",
+        "peekOfCode": "def room(request, pk):\n    room = None\n    for i in rooms:\n        if i['id'] == int(pk):\n            room = i\n    context = { 'room': room }\n    return render(request, 'base/room.html', context)",
+        "detail": ".history.base.views_20231001144056",
+        "documentation": {}
+    },
+    {
+        "label": "static_rooms",
+        "kind": 5,
+        "importPath": ".history.base.views_20231001144056",
+        "description": ".history.base.views_20231001144056",
+        "peekOfCode": "static_rooms = [\n    { 'id': 1, 'name': 'Lets Learn VueJs' },\n    { 'id': 2, 'name': 'Create a Tuorial' },\n    { 'id': 3, 'name': 'Code my own Django Rest API' },\n]\ndef home(request):\n    context = {'rooms': rooms}\n    return render(request, 'base/home.html', context)\ndef room(request, pk):\n    room = None",
+        "detail": ".history.base.views_20231001144056",
+        "documentation": {}
+    },
+    {
+        "label": "home",
+        "kind": 2,
+        "importPath": ".history.base.views_20231001144114",
+        "description": ".history.base.views_20231001144114",
+        "peekOfCode": "def home(request):\n    context = {'rooms': rooms}\n    return render(request, 'base/home.html', context)\ndef room(request, pk):\n    room = None\n    for i in rooms:\n        if i['id'] == int(pk):\n            room = i\n    context = { 'room': room }\n    return render(request, 'base/room.html', context)",
+        "detail": ".history.base.views_20231001144114",
+        "documentation": {}
+    },
+    {
+        "label": "room",
+        "kind": 2,
+        "importPath": ".history.base.views_20231001144114",
+        "description": ".history.base.views_20231001144114",
+        "peekOfCode": "def room(request, pk):\n    room = None\n    for i in rooms:\n        if i['id'] == int(pk):\n            room = i\n    context = { 'room': room }\n    return render(request, 'base/room.html', context)",
+        "detail": ".history.base.views_20231001144114",
+        "documentation": {}
+    },
+    {
+        "label": "static_rooms",
+        "kind": 5,
+        "importPath": ".history.base.views_20231001144114",
+        "description": ".history.base.views_20231001144114",
+        "peekOfCode": "static_rooms = [\n    { 'id': 1, 'name': 'Lets Learn VueJs' },\n    { 'id': 2, 'name': 'Create a Tuorial' },\n    { 'id': 3, 'name': 'Code my own Django Rest API' },\n]\ndef home(request):\n    context = {'rooms': rooms}\n    return render(request, 'base/home.html', context)\ndef room(request, pk):\n    room = None",
+        "detail": ".history.base.views_20231001144114",
+        "documentation": {}
+    },
+    {
+        "label": "home",
+        "kind": 2,
+        "importPath": ".history.base.views_20231001144119",
+        "description": ".history.base.views_20231001144119",
+        "peekOfCode": "def home(request):\n    context = {'rooms': rooms}\n    return render(request, 'base/home.html', context)\ndef room(request, pk):\n    room = None\n    for i in rooms:\n        if i['id'] == int(pk):\n            room = i\n    context = { 'room': room }\n    return render(request, 'base/room.html', context)",
+        "detail": ".history.base.views_20231001144119",
+        "documentation": {}
+    },
+    {
+        "label": "room",
+        "kind": 2,
+        "importPath": ".history.base.views_20231001144119",
+        "description": ".history.base.views_20231001144119",
+        "peekOfCode": "def room(request, pk):\n    room = None\n    for i in rooms:\n        if i['id'] == int(pk):\n            room = i\n    context = { 'room': room }\n    return render(request, 'base/room.html', context)",
+        "detail": ".history.base.views_20231001144119",
+        "documentation": {}
+    },
+    {
+        "label": "static_rooms",
+        "kind": 5,
+        "importPath": ".history.base.views_20231001144119",
+        "description": ".history.base.views_20231001144119",
+        "peekOfCode": "static_rooms = [\n    { 'id': 1, 'name': 'Lets Learn VueJs' },\n    { 'id': 2, 'name': 'Create a Tuorial' },\n    { 'id': 3, 'name': 'Code my own Django Rest API' },\n]\nroom\ndef home(request):\n    context = {'rooms': rooms}\n    return render(request, 'base/home.html', context)\ndef room(request, pk):",
+        "detail": ".history.base.views_20231001144119",
+        "documentation": {}
+    },
+    {
+        "label": "home",
+        "kind": 2,
+        "importPath": ".history.base.views_20231001144121",
+        "description": ".history.base.views_20231001144121",
+        "peekOfCode": "def home(request):\n    context = {'rooms': rooms}\n    return render(request, 'base/home.html', context)\ndef room(request, pk):\n    room = None\n    for i in rooms:\n        if i['id'] == int(pk):\n            room = i\n    context = { 'room': room }\n    return render(request, 'base/room.html', context)",
+        "detail": ".history.base.views_20231001144121",
+        "documentation": {}
+    },
+    {
+        "label": "room",
+        "kind": 2,
+        "importPath": ".history.base.views_20231001144121",
+        "description": ".history.base.views_20231001144121",
+        "peekOfCode": "def room(request, pk):\n    room = None\n    for i in rooms:\n        if i['id'] == int(pk):\n            room = i\n    context = { 'room': room }\n    return render(request, 'base/room.html', context)",
+        "detail": ".history.base.views_20231001144121",
+        "documentation": {}
+    },
+    {
+        "label": "static_rooms",
+        "kind": 5,
+        "importPath": ".history.base.views_20231001144121",
+        "description": ".history.base.views_20231001144121",
+        "peekOfCode": "static_rooms = [\n    { 'id': 1, 'name': 'Lets Learn VueJs' },\n    { 'id': 2, 'name': 'Create a Tuorial' },\n    { 'id': 3, 'name': 'Code my own Django Rest API' },\n]\nrooms = \ndef home(request):\n    context = {'rooms': rooms}\n    return render(request, 'base/home.html', context)\ndef room(request, pk):",
+        "detail": ".history.base.views_20231001144121",
+        "documentation": {}
+    },
+    {
+        "label": "rooms",
+        "kind": 5,
+        "importPath": ".history.base.views_20231001144121",
+        "description": ".history.base.views_20231001144121",
+        "peekOfCode": "rooms = \ndef home(request):\n    context = {'rooms': rooms}\n    return render(request, 'base/home.html', context)\ndef room(request, pk):\n    room = None\n    for i in rooms:\n        if i['id'] == int(pk):\n            room = i\n    context = { 'room': room }",
+        "detail": ".history.base.views_20231001144121",
+        "documentation": {}
+    },
+    {
+        "label": "home",
+        "kind": 2,
+        "importPath": ".history.base.views_20231001144125",
+        "description": ".history.base.views_20231001144125",
+        "peekOfCode": "def home(request):\n    context = {'rooms': rooms}\n    return render(request, 'base/home.html', context)\ndef room(request, pk):\n    room = None\n    for i in rooms:\n        if i['id'] == int(pk):\n            room = i\n    context = { 'room': room }\n    return render(request, 'base/room.html', context)",
+        "detail": ".history.base.views_20231001144125",
+        "documentation": {}
+    },
+    {
+        "label": "room",
+        "kind": 2,
+        "importPath": ".history.base.views_20231001144125",
+        "description": ".history.base.views_20231001144125",
+        "peekOfCode": "def room(request, pk):\n    room = None\n    for i in rooms:\n        if i['id'] == int(pk):\n            room = i\n    context = { 'room': room }\n    return render(request, 'base/room.html', context)",
+        "detail": ".history.base.views_20231001144125",
+        "documentation": {}
+    },
+    {
+        "label": "static_rooms",
+        "kind": 5,
+        "importPath": ".history.base.views_20231001144125",
+        "description": ".history.base.views_20231001144125",
+        "peekOfCode": "static_rooms = [\n    { 'id': 1, 'name': 'Lets Learn VueJs' },\n    { 'id': 2, 'name': 'Create a Tuorial' },\n    { 'id': 3, 'name': 'Code my own Django Rest API' },\n]\nrooms = Room.\ndef home(request):\n    context = {'rooms': rooms}\n    return render(request, 'base/home.html', context)\ndef room(request, pk):",
+        "detail": ".history.base.views_20231001144125",
+        "documentation": {}
+    },
+    {
+        "label": "rooms",
+        "kind": 5,
+        "importPath": ".history.base.views_20231001144125",
+        "description": ".history.base.views_20231001144125",
+        "peekOfCode": "rooms = Room.\ndef home(request):\n    context = {'rooms': rooms}\n    return render(request, 'base/home.html', context)\ndef room(request, pk):\n    room = None\n    for i in rooms:\n        if i['id'] == int(pk):\n            room = i\n    context = { 'room': room }",
+        "detail": ".history.base.views_20231001144125",
+        "documentation": {}
+    },
+    {
+        "label": "home",
+        "kind": 2,
+        "importPath": ".history.base.views_20231001144132",
+        "description": ".history.base.views_20231001144132",
+        "peekOfCode": "def home(request):\n    context = {'rooms': rooms}\n    return render(request, 'base/home.html', context)\ndef room(request, pk):\n    room = None\n    for i in rooms:\n        if i['id'] == int(pk):\n            room = i\n    context = { 'room': room }\n    return render(request, 'base/room.html', context)",
+        "detail": ".history.base.views_20231001144132",
+        "documentation": {}
+    },
+    {
+        "label": "room",
+        "kind": 2,
+        "importPath": ".history.base.views_20231001144132",
+        "description": ".history.base.views_20231001144132",
+        "peekOfCode": "def room(request, pk):\n    room = None\n    for i in rooms:\n        if i['id'] == int(pk):\n            room = i\n    context = { 'room': room }\n    return render(request, 'base/room.html', context)",
+        "detail": ".history.base.views_20231001144132",
+        "documentation": {}
+    },
+    {
+        "label": "static_rooms",
+        "kind": 5,
+        "importPath": ".history.base.views_20231001144132",
+        "description": ".history.base.views_20231001144132",
+        "peekOfCode": "static_rooms = [\n    { 'id': 1, 'name': 'Lets Learn VueJs' },\n    { 'id': 2, 'name': 'Create a Tuorial' },\n    { 'id': 3, 'name': 'Code my own Django Rest API' },\n]\nrooms = Room.obj\ndef home(request):\n    context = {'rooms': rooms}\n    return render(request, 'base/home.html', context)\ndef room(request, pk):",
+        "detail": ".history.base.views_20231001144132",
+        "documentation": {}
+    },
+    {
+        "label": "rooms",
+        "kind": 5,
+        "importPath": ".history.base.views_20231001144132",
+        "description": ".history.base.views_20231001144132",
+        "peekOfCode": "rooms = Room.obj\ndef home(request):\n    context = {'rooms': rooms}\n    return render(request, 'base/home.html', context)\ndef room(request, pk):\n    room = None\n    for i in rooms:\n        if i['id'] == int(pk):\n            room = i\n    context = { 'room': room }",
+        "detail": ".history.base.views_20231001144132",
+        "documentation": {}
+    },
+    {
+        "label": "home",
+        "kind": 2,
+        "importPath": ".history.base.views_20231001144135",
+        "description": ".history.base.views_20231001144135",
+        "peekOfCode": "def home(request):\n    context = {'rooms': rooms}\n    return render(request, 'base/home.html', context)\ndef room(request, pk):\n    room = None\n    for i in rooms:\n        if i['id'] == int(pk):\n            room = i\n    context = { 'room': room }\n    return render(request, 'base/room.html', context)",
+        "detail": ".history.base.views_20231001144135",
+        "documentation": {}
+    },
+    {
+        "label": "room",
+        "kind": 2,
+        "importPath": ".history.base.views_20231001144135",
+        "description": ".history.base.views_20231001144135",
+        "peekOfCode": "def room(request, pk):\n    room = None\n    for i in rooms:\n        if i['id'] == int(pk):\n            room = i\n    context = { 'room': room }\n    return render(request, 'base/room.html', context)",
+        "detail": ".history.base.views_20231001144135",
+        "documentation": {}
+    },
+    {
+        "label": "static_rooms",
+        "kind": 5,
+        "importPath": ".history.base.views_20231001144135",
+        "description": ".history.base.views_20231001144135",
+        "peekOfCode": "static_rooms = [\n    { 'id': 1, 'name': 'Lets Learn VueJs' },\n    { 'id': 2, 'name': 'Create a Tuorial' },\n    { 'id': 3, 'name': 'Code my own Django Rest API' },\n]\nrooms = Room.objects\ndef home(request):\n    context = {'rooms': rooms}\n    return render(request, 'base/home.html', context)\ndef room(request, pk):",
+        "detail": ".history.base.views_20231001144135",
+        "documentation": {}
+    },
+    {
+        "label": "rooms",
+        "kind": 5,
+        "importPath": ".history.base.views_20231001144135",
+        "description": ".history.base.views_20231001144135",
+        "peekOfCode": "rooms = Room.objects\ndef home(request):\n    context = {'rooms': rooms}\n    return render(request, 'base/home.html', context)\ndef room(request, pk):\n    room = None\n    for i in rooms:\n        if i['id'] == int(pk):\n            room = i\n    context = { 'room': room }",
+        "detail": ".history.base.views_20231001144135",
+        "documentation": {}
+    },
+    {
+        "label": "home",
+        "kind": 2,
+        "importPath": ".history.base.views_20231001144144",
+        "description": ".history.base.views_20231001144144",
+        "peekOfCode": "def home(request):\n    context = {'rooms': rooms}\n    return render(request, 'base/home.html', context)\ndef room(request, pk):\n    room = None\n    for i in rooms:\n        if i['id'] == int(pk):\n            room = i\n    context = { 'room': room }\n    return render(request, 'base/room.html', context)",
+        "detail": ".history.base.views_20231001144144",
+        "documentation": {}
+    },
+    {
+        "label": "room",
+        "kind": 2,
+        "importPath": ".history.base.views_20231001144144",
+        "description": ".history.base.views_20231001144144",
+        "peekOfCode": "def room(request, pk):\n    room = None\n    for i in rooms:\n        if i['id'] == int(pk):\n            room = i\n    context = { 'room': room }\n    return render(request, 'base/room.html', context)",
+        "detail": ".history.base.views_20231001144144",
+        "documentation": {}
+    },
+    {
+        "label": "static_rooms",
+        "kind": 5,
+        "importPath": ".history.base.views_20231001144144",
+        "description": ".history.base.views_20231001144144",
+        "peekOfCode": "static_rooms = [\n    { 'id': 1, 'name': 'Lets Learn VueJs' },\n    { 'id': 2, 'name': 'Create a Tuorial' },\n    { 'id': 3, 'name': 'Code my own Django Rest API' },\n]\nrooms = Room.objects\ndef home(request):\n    context = {'rooms': rooms}\n    return render(request, 'base/home.html', context)\ndef room(request, pk):",
+        "detail": ".history.base.views_20231001144144",
+        "documentation": {}
+    },
+    {
+        "label": "rooms",
+        "kind": 5,
+        "importPath": ".history.base.views_20231001144144",
+        "description": ".history.base.views_20231001144144",
+        "peekOfCode": "rooms = Room.objects\ndef home(request):\n    context = {'rooms': rooms}\n    return render(request, 'base/home.html', context)\ndef room(request, pk):\n    room = None\n    for i in rooms:\n        if i['id'] == int(pk):\n            room = i\n    context = { 'room': room }",
+        "detail": ".history.base.views_20231001144144",
+        "documentation": {}
+    },
+    {
+        "label": "home",
+        "kind": 2,
+        "importPath": ".history.base.views_20231001144149",
+        "description": ".history.base.views_20231001144149",
+        "peekOfCode": "def home(request):\n    context = {'rooms': rooms}\n    return render(request, 'base/home.html', context)\ndef room(request, pk):\n    room = None\n    for i in rooms:\n        if i['id'] == int(pk):\n            room = i\n    context = { 'room': room }\n    return render(request, 'base/room.html', context)",
+        "detail": ".history.base.views_20231001144149",
+        "documentation": {}
+    },
+    {
+        "label": "room",
+        "kind": 2,
+        "importPath": ".history.base.views_20231001144149",
+        "description": ".history.base.views_20231001144149",
+        "peekOfCode": "def room(request, pk):\n    room = None\n    for i in rooms:\n        if i['id'] == int(pk):\n            room = i\n    context = { 'room': room }\n    return render(request, 'base/room.html', context)",
+        "detail": ".history.base.views_20231001144149",
+        "documentation": {}
+    },
+    {
+        "label": "static_rooms",
+        "kind": 5,
+        "importPath": ".history.base.views_20231001144149",
+        "description": ".history.base.views_20231001144149",
+        "peekOfCode": "static_rooms = [\n    { 'id': 1, 'name': 'Lets Learn VueJs' },\n    { 'id': 2, 'name': 'Create a Tuorial' },\n    { 'id': 3, 'name': 'Code my own Django Rest API' },\n]\nrooms = Room.objects.all\ndef home(request):\n    context = {'rooms': rooms}\n    return render(request, 'base/home.html', context)\ndef room(request, pk):",
+        "detail": ".history.base.views_20231001144149",
+        "documentation": {}
+    },
+    {
+        "label": "rooms",
+        "kind": 5,
+        "importPath": ".history.base.views_20231001144149",
+        "description": ".history.base.views_20231001144149",
+        "peekOfCode": "rooms = Room.objects.all\ndef home(request):\n    context = {'rooms': rooms}\n    return render(request, 'base/home.html', context)\ndef room(request, pk):\n    room = None\n    for i in rooms:\n        if i['id'] == int(pk):\n            room = i\n    context = { 'room': room }",
+        "detail": ".history.base.views_20231001144149",
+        "documentation": {}
+    },
+    {
+        "label": "home",
+        "kind": 2,
+        "importPath": ".history.base.views_20231001144152",
+        "description": ".history.base.views_20231001144152",
+        "peekOfCode": "def home(request):\n    context = {'rooms': rooms}\n    return render(request, 'base/home.html', context)\ndef room(request, pk):\n    room = None\n    for i in rooms:\n        if i['id'] == int(pk):\n            room = i\n    context = { 'room': room }\n    return render(request, 'base/room.html', context)",
+        "detail": ".history.base.views_20231001144152",
+        "documentation": {}
+    },
+    {
+        "label": "room",
+        "kind": 2,
+        "importPath": ".history.base.views_20231001144152",
+        "description": ".history.base.views_20231001144152",
+        "peekOfCode": "def room(request, pk):\n    room = None\n    for i in rooms:\n        if i['id'] == int(pk):\n            room = i\n    context = { 'room': room }\n    return render(request, 'base/room.html', context)",
+        "detail": ".history.base.views_20231001144152",
+        "documentation": {}
+    },
+    {
+        "label": "static_rooms",
+        "kind": 5,
+        "importPath": ".history.base.views_20231001144152",
+        "description": ".history.base.views_20231001144152",
+        "peekOfCode": "static_rooms = [\n    { 'id': 1, 'name': 'Lets Learn VueJs' },\n    { 'id': 2, 'name': 'Create a Tuorial' },\n    { 'id': 3, 'name': 'Code my own Django Rest API' },\n]\nrooms = Room.objects.all()\ndef home(request):\n    context = {'rooms': rooms}\n    return render(request, 'base/home.html', context)\ndef room(request, pk):",
+        "detail": ".history.base.views_20231001144152",
+        "documentation": {}
+    },
+    {
+        "label": "rooms",
+        "kind": 5,
+        "importPath": ".history.base.views_20231001144152",
+        "description": ".history.base.views_20231001144152",
+        "peekOfCode": "rooms = Room.objects.all()\ndef home(request):\n    context = {'rooms': rooms}\n    return render(request, 'base/home.html', context)\ndef room(request, pk):\n    room = None\n    for i in rooms:\n        if i['id'] == int(pk):\n            room = i\n    context = { 'room': room }",
+        "detail": ".history.base.views_20231001144152",
+        "documentation": {}
+    },
+    {
+        "label": "home",
+        "kind": 2,
+        "importPath": ".history.base.views_20231001144158",
+        "description": ".history.base.views_20231001144158",
+        "peekOfCode": "def home(request):\n    context = {'rooms': rooms}\n    return render(request, 'base/home.html', context)\ndef room(request, pk):\n    room = None\n    for i in rooms:\n        if i['id'] == int(pk):\n            room = i\n    context = { 'room': room }\n    return render(request, 'base/room.html', context)",
+        "detail": ".history.base.views_20231001144158",
+        "documentation": {}
+    },
+    {
+        "label": "room",
+        "kind": 2,
+        "importPath": ".history.base.views_20231001144158",
+        "description": ".history.base.views_20231001144158",
+        "peekOfCode": "def room(request, pk):\n    room = None\n    for i in rooms:\n        if i['id'] == int(pk):\n            room = i\n    context = { 'room': room }\n    return render(request, 'base/room.html', context)",
+        "detail": ".history.base.views_20231001144158",
+        "documentation": {}
+    },
+    {
+        "label": "static_rooms",
+        "kind": 5,
+        "importPath": ".history.base.views_20231001144158",
+        "description": ".history.base.views_20231001144158",
+        "peekOfCode": "static_rooms = [\n    { 'id': 1, 'name': 'Lets Learn VueJs' },\n    { 'id': 2, 'name': 'Create a Tuorial' },\n    { 'id': 3, 'name': 'Code my own Django Rest API' },\n]\n# get all \nrooms = Room.objects.all()\ndef home(request):\n    context = {'rooms': rooms}\n    return render(request, 'base/home.html', context)",
+        "detail": ".history.base.views_20231001144158",
+        "documentation": {}
+    },
+    {
+        "label": "rooms",
+        "kind": 5,
+        "importPath": ".history.base.views_20231001144158",
+        "description": ".history.base.views_20231001144158",
+        "peekOfCode": "rooms = Room.objects.all()\ndef home(request):\n    context = {'rooms': rooms}\n    return render(request, 'base/home.html', context)\ndef room(request, pk):\n    room = None\n    for i in rooms:\n        if i['id'] == int(pk):\n            room = i\n    context = { 'room': room }",
+        "detail": ".history.base.views_20231001144158",
+        "documentation": {}
+    },
+    {
+        "label": "home",
+        "kind": 2,
+        "importPath": ".history.base.views_20231001144202",
+        "description": ".history.base.views_20231001144202",
+        "peekOfCode": "def home(request):\n    context = {'rooms': rooms}\n    return render(request, 'base/home.html', context)\ndef room(request, pk):\n    room = None\n    for i in rooms:\n        if i['id'] == int(pk):\n            room = i\n    context = { 'room': room }\n    return render(request, 'base/room.html', context)",
+        "detail": ".history.base.views_20231001144202",
+        "documentation": {}
+    },
+    {
+        "label": "room",
+        "kind": 2,
+        "importPath": ".history.base.views_20231001144202",
+        "description": ".history.base.views_20231001144202",
+        "peekOfCode": "def room(request, pk):\n    room = None\n    for i in rooms:\n        if i['id'] == int(pk):\n            room = i\n    context = { 'room': room }\n    return render(request, 'base/room.html', context)",
+        "detail": ".history.base.views_20231001144202",
+        "documentation": {}
+    },
+    {
+        "label": "static_rooms",
+        "kind": 5,
+        "importPath": ".history.base.views_20231001144202",
+        "description": ".history.base.views_20231001144202",
+        "peekOfCode": "static_rooms = [\n    { 'id': 1, 'name': 'Lets Learn VueJs' },\n    { 'id': 2, 'name': 'Create a Tuorial' },\n    { 'id': 3, 'name': 'Code my own Django Rest API' },\n]\n# get all rooms Object\nrooms = Room.objects.all()\ndef home(request):\n    context = {'rooms': rooms}\n    return render(request, 'base/home.html', context)",
+        "detail": ".history.base.views_20231001144202",
+        "documentation": {}
+    },
+    {
+        "label": "rooms",
+        "kind": 5,
+        "importPath": ".history.base.views_20231001144202",
+        "description": ".history.base.views_20231001144202",
+        "peekOfCode": "rooms = Room.objects.all()\ndef home(request):\n    context = {'rooms': rooms}\n    return render(request, 'base/home.html', context)\ndef room(request, pk):\n    room = None\n    for i in rooms:\n        if i['id'] == int(pk):\n            room = i\n    context = { 'room': room }",
+        "detail": ".history.base.views_20231001144202",
+        "documentation": {}
+    },
+    {
+        "label": "home",
+        "kind": 2,
+        "importPath": ".history.base.views_20231001144204",
+        "description": ".history.base.views_20231001144204",
+        "peekOfCode": "def home(request):\n    context = {'rooms': rooms}\n    return render(request, 'base/home.html', context)\ndef room(request, pk):\n    room = None\n    for i in rooms:\n        if i['id'] == int(pk):\n            room = i\n    context = { 'room': room }\n    return render(request, 'base/room.html', context)",
+        "detail": ".history.base.views_20231001144204",
+        "documentation": {}
+    },
+    {
+        "label": "room",
+        "kind": 2,
+        "importPath": ".history.base.views_20231001144204",
+        "description": ".history.base.views_20231001144204",
+        "peekOfCode": "def room(request, pk):\n    room = None\n    for i in rooms:\n        if i['id'] == int(pk):\n            room = i\n    context = { 'room': room }\n    return render(request, 'base/room.html', context)",
+        "detail": ".history.base.views_20231001144204",
+        "documentation": {}
+    },
+    {
+        "label": "static_rooms",
+        "kind": 5,
+        "importPath": ".history.base.views_20231001144204",
+        "description": ".history.base.views_20231001144204",
+        "peekOfCode": "static_rooms = [\n    { 'id': 1, 'name': 'Lets Learn VueJs' },\n    { 'id': 2, 'name': 'Create a Tuorial' },\n    { 'id': 3, 'name': 'Code my own Django Rest API' },\n]\n# get all rooms Object\nrooms = Room.objects.all()\ndef home(request):\n    context = {'rooms': rooms}\n    return render(request, 'base/home.html', context)",
+        "detail": ".history.base.views_20231001144204",
+        "documentation": {}
+    },
+    {
+        "label": "rooms",
+        "kind": 5,
+        "importPath": ".history.base.views_20231001144204",
+        "description": ".history.base.views_20231001144204",
+        "peekOfCode": "rooms = Room.objects.all()\ndef home(request):\n    context = {'rooms': rooms}\n    return render(request, 'base/home.html', context)\ndef room(request, pk):\n    room = None\n    for i in rooms:\n        if i['id'] == int(pk):\n            room = i\n    context = { 'room': room }",
+        "detail": ".history.base.views_20231001144204",
+        "documentation": {}
+    },
+    {
+        "label": "home",
+        "kind": 2,
+        "importPath": ".history.base.views_20231001150845",
+        "description": ".history.base.views_20231001150845",
+        "peekOfCode": "def home(request):\n    context = {'rooms': rooms}\n    return render(request, 'base/home.html', context)\ndef room(request, pk):\n    room = None\n    for i in rooms:\n        if i['id'] == int(pk):\n            room = i\n    context = { 'room': room }\n    return render(request, 'base/room.html', context)",
+        "detail": ".history.base.views_20231001150845",
+        "documentation": {}
+    },
+    {
+        "label": "room",
+        "kind": 2,
+        "importPath": ".history.base.views_20231001150845",
+        "description": ".history.base.views_20231001150845",
+        "peekOfCode": "def room(request, pk):\n    room = None\n    for i in rooms:\n        if i['id'] == int(pk):\n            room = i\n    context = { 'room': room }\n    return render(request, 'base/room.html', context)",
+        "detail": ".history.base.views_20231001150845",
+        "documentation": {}
+    },
+    {
+        "label": "static_rooms",
+        "kind": 5,
+        "importPath": ".history.base.views_20231001150845",
+        "description": ".history.base.views_20231001150845",
+        "peekOfCode": "static_rooms = [\n    { 'id': 1, 'name': 'Lets Learn VueJs' },\n    { 'id': 2, 'name': 'Create a Tuorial' },\n    { 'id': 3, 'name': 'Code my own Django Rest API' },\n]\n# get all rooms Object\nrooms = Room.objects.all()\ndef home(request):\n    context = {'rooms': rooms}\n    return render(request, 'base/home.html', context)",
+        "detail": ".history.base.views_20231001150845",
+        "documentation": {}
+    },
+    {
+        "label": "rooms",
+        "kind": 5,
+        "importPath": ".history.base.views_20231001150845",
+        "description": ".history.base.views_20231001150845",
+        "peekOfCode": "rooms = Room.objects.all()\ndef home(request):\n    context = {'rooms': rooms}\n    return render(request, 'base/home.html', context)\ndef room(request, pk):\n    room = None\n    for i in rooms:\n        if i['id'] == int(pk):\n            room = i\n    context = { 'room': room }",
+        "detail": ".history.base.views_20231001150845",
+        "documentation": {}
+    },
+    {
+        "label": "home",
+        "kind": 2,
+        "importPath": ".history.base.views_20231001150903",
+        "description": ".history.base.views_20231001150903",
+        "peekOfCode": "def home(request):\n    context = {'rooms': rooms}\n    return render(request, 'base/home.html', context)\ndef room(request, pk):\n    room = None\n    for i in rooms:\n        if i['id'] == int(pk):\n            room = i\n    context = { 'room': room }\n    return render(request, 'base/room.html', context)",
+        "detail": ".history.base.views_20231001150903",
+        "documentation": {}
+    },
+    {
+        "label": "room",
+        "kind": 2,
+        "importPath": ".history.base.views_20231001150903",
+        "description": ".history.base.views_20231001150903",
+        "peekOfCode": "def room(request, pk):\n    room = None\n    for i in rooms:\n        if i['id'] == int(pk):\n            room = i\n    context = { 'room': room }\n    return render(request, 'base/room.html', context)",
+        "detail": ".history.base.views_20231001150903",
+        "documentation": {}
+    },
+    {
+        "label": "static_rooms",
+        "kind": 5,
+        "importPath": ".history.base.views_20231001150903",
+        "description": ".history.base.views_20231001150903",
+        "peekOfCode": "static_rooms = [\n    { 'id': 1, 'name': 'Lets Learn VueJs' },\n    { 'id': 2, 'name': 'Create a Tuorial' },\n    { 'id': 3, 'name': 'Code my own Django Rest API' },\n]\n# get all rooms Object\nrooms = Room.objects.all()\ndef home(request):\n    context = {'rooms': rooms}\n    return render(request, 'base/home.html', context)",
+        "detail": ".history.base.views_20231001150903",
+        "documentation": {}
+    },
+    {
+        "label": "rooms",
+        "kind": 5,
+        "importPath": ".history.base.views_20231001150903",
+        "description": ".history.base.views_20231001150903",
+        "peekOfCode": "rooms = Room.objects.all()\ndef home(request):\n    context = {'rooms': rooms}\n    return render(request, 'base/home.html', context)\ndef room(request, pk):\n    room = None\n    for i in rooms:\n        if i['id'] == int(pk):\n            room = i\n    context = { 'room': room }",
+        "detail": ".history.base.views_20231001150903",
+        "documentation": {}
+    },
+    {
+        "label": "home",
+        "kind": 2,
+        "importPath": ".history.base.views_20231001150906",
+        "description": ".history.base.views_20231001150906",
+        "peekOfCode": "def home(request):\n    context = {'rooms': rooms}\n    return render(request, 'base/home.html', context)\ndef room(request, pk):\n    room = None\n    for i in rooms:\n        if i['id'] == int(pk):\n            room = i\n    context = { 'room': room }\n    return render(request, 'base/room.html', context)",
+        "detail": ".history.base.views_20231001150906",
+        "documentation": {}
+    },
+    {
+        "label": "room",
+        "kind": 2,
+        "importPath": ".history.base.views_20231001150906",
+        "description": ".history.base.views_20231001150906",
+        "peekOfCode": "def room(request, pk):\n    room = None\n    for i in rooms:\n        if i['id'] == int(pk):\n            room = i\n    context = { 'room': room }\n    return render(request, 'base/room.html', context)",
+        "detail": ".history.base.views_20231001150906",
+        "documentation": {}
+    },
+    {
+        "label": "static_rooms",
+        "kind": 5,
+        "importPath": ".history.base.views_20231001150906",
+        "description": ".history.base.views_20231001150906",
+        "peekOfCode": "static_rooms = [\n    { 'id': 1, 'name': 'Lets Learn VueJs' },\n    { 'id': 2, 'name': 'Create a Tuorial' },\n    { 'id': 3, 'name': 'Code my own Django Rest API' },\n]\n# get all rooms Object\nrooms = Room.objects.all()\ndef home(request):\n    context = {'rooms': rooms}\n    return render(request, 'base/home.html', context)",
+        "detail": ".history.base.views_20231001150906",
+        "documentation": {}
+    },
+    {
+        "label": "rooms",
+        "kind": 5,
+        "importPath": ".history.base.views_20231001150906",
+        "description": ".history.base.views_20231001150906",
+        "peekOfCode": "rooms = Room.objects.all()\ndef home(request):\n    context = {'rooms': rooms}\n    return render(request, 'base/home.html', context)\ndef room(request, pk):\n    room = None\n    for i in rooms:\n        if i['id'] == int(pk):\n            room = i\n    context = { 'room': room }",
+        "detail": ".history.base.views_20231001150906",
+        "documentation": {}
+    },
+    {
+        "label": "home",
+        "kind": 2,
+        "importPath": ".history.base.views_20231001150911",
+        "description": ".history.base.views_20231001150911",
+        "peekOfCode": "def home(request):\n    context = {'rooms': rooms}\n    return render(request, 'base/home.html', context)\ndef room(request, pk):\n    room = None\n    for i in rooms:\n        if i['id'] == int(pk):\n            room = i\n    context = { 'room': room }\n    return render(request, 'base/room.html', context)",
+        "detail": ".history.base.views_20231001150911",
+        "documentation": {}
+    },
+    {
+        "label": "room",
+        "kind": 2,
+        "importPath": ".history.base.views_20231001150911",
+        "description": ".history.base.views_20231001150911",
+        "peekOfCode": "def room(request, pk):\n    room = None\n    for i in rooms:\n        if i['id'] == int(pk):\n            room = i\n    context = { 'room': room }\n    return render(request, 'base/room.html', context)",
+        "detail": ".history.base.views_20231001150911",
+        "documentation": {}
+    },
+    {
+        "label": "static_rooms",
+        "kind": 5,
+        "importPath": ".history.base.views_20231001150911",
+        "description": ".history.base.views_20231001150911",
+        "peekOfCode": "static_rooms = [\n    { 'id': 1, 'name': 'Lets Learn VueJs' },\n    { 'id': 2, 'name': 'Create a Tuorial' },\n    { 'id': 3, 'name': 'Code my own Django Rest API' },\n]\n# get all rooms Object\nrooms = Room.objects.all()\ndef home(request):\n    context = {'rooms': rooms}\n    return render(request, 'base/home.html', context)",
+        "detail": ".history.base.views_20231001150911",
+        "documentation": {}
+    },
+    {
+        "label": "rooms",
+        "kind": 5,
+        "importPath": ".history.base.views_20231001150911",
+        "description": ".history.base.views_20231001150911",
+        "peekOfCode": "rooms = Room.objects.all()\ndef home(request):\n    context = {'rooms': rooms}\n    return render(request, 'base/home.html', context)\ndef room(request, pk):\n    room = None\n    for i in rooms:\n        if i['id'] == int(pk):\n            room = i\n    context = { 'room': room }",
+        "detail": ".history.base.views_20231001150911",
+        "documentation": {}
+    },
+    {
+        "label": "home",
+        "kind": 2,
+        "importPath": ".history.base.views_20231001151306",
+        "description": ".history.base.views_20231001151306",
+        "peekOfCode": "def home(request):\n    context = {'rooms': rooms}\n    return render(request, 'base/home.html', context)\ndef room(request, pk):\n    room = None\n    for i in rooms:\n        if i['id'] == int(pk):\n            room = i\n    context = { 'room': room }\n    return render(request, 'base/room.html', context)",
+        "detail": ".history.base.views_20231001151306",
+        "documentation": {}
+    },
+    {
+        "label": "room",
+        "kind": 2,
+        "importPath": ".history.base.views_20231001151306",
+        "description": ".history.base.views_20231001151306",
+        "peekOfCode": "def room(request, pk):\n    room = None\n    for i in rooms:\n        if i['id'] == int(pk):\n            room = i\n    context = { 'room': room }\n    return render(request, 'base/room.html', context)",
+        "detail": ".history.base.views_20231001151306",
+        "documentation": {}
+    },
+    {
+        "label": "static_rooms",
+        "kind": 5,
+        "importPath": ".history.base.views_20231001151306",
+        "description": ".history.base.views_20231001151306",
+        "peekOfCode": "static_rooms = [\n    { 'id': 1, 'name': 'Lets Learn VueJs' },\n    { 'id': 2, 'name': 'Create a Tuorial' },\n    { 'id': 3, 'name': 'Code my own Django Rest API' },\n]\ndef home(request):\n    context = {'rooms': rooms}\n    return render(request, 'base/home.html', context)\ndef room(request, pk):\n    room = None",
+        "detail": ".history.base.views_20231001151306",
+        "documentation": {}
+    },
+    {
+        "label": "home",
+        "kind": 2,
+        "importPath": ".history.base.views_20231001151311",
+        "description": ".history.base.views_20231001151311",
+        "peekOfCode": "def home(request):\n    context = {'rooms': rooms}\n    return render(request, 'base/home.html', context)\ndef room(request, pk):\n    room = None\n    for i in rooms:\n        if i['id'] == int(pk):\n            room = i\n    context = { 'room': room }\n    return render(request, 'base/room.html', context)",
+        "detail": ".history.base.views_20231001151311",
+        "documentation": {}
+    },
+    {
+        "label": "room",
+        "kind": 2,
+        "importPath": ".history.base.views_20231001151311",
+        "description": ".history.base.views_20231001151311",
+        "peekOfCode": "def room(request, pk):\n    room = None\n    for i in rooms:\n        if i['id'] == int(pk):\n            room = i\n    context = { 'room': room }\n    return render(request, 'base/room.html', context)",
+        "detail": ".history.base.views_20231001151311",
+        "documentation": {}
+    },
+    {
+        "label": "static_rooms",
+        "kind": 5,
+        "importPath": ".history.base.views_20231001151311",
+        "description": ".history.base.views_20231001151311",
+        "peekOfCode": "static_rooms = [\n    { 'id': 1, 'name': 'Lets Learn VueJs' },\n    { 'id': 2, 'name': 'Create a Tuorial' },\n    { 'id': 3, 'name': 'Code my own Django Rest API' },\n]\ndef home(request):\n    context = {'rooms': rooms}\n    return render(request, 'base/home.html', context)\ndef room(request, pk):\n    room = None",
+        "detail": ".history.base.views_20231001151311",
+        "documentation": {}
+    },
+    {
+        "label": "home",
+        "kind": 2,
+        "importPath": ".history.base.views_20231001151313",
+        "description": ".history.base.views_20231001151313",
+        "peekOfCode": "def home(request):\n    # get all rooms Object\nrooms = Room.objects.all()\n    context = {'rooms': rooms}\n    return render(request, 'base/home.html', context)\ndef room(request, pk):\n    room = None\n    for i in rooms:\n        if i['id'] == int(pk):\n            room = i",
+        "detail": ".history.base.views_20231001151313",
+        "documentation": {}
+    },
+    {
+        "label": "room",
+        "kind": 2,
+        "importPath": ".history.base.views_20231001151313",
+        "description": ".history.base.views_20231001151313",
+        "peekOfCode": "def room(request, pk):\n    room = None\n    for i in rooms:\n        if i['id'] == int(pk):\n            room = i\n    context = { 'room': room }\n    return render(request, 'base/room.html', context)",
+        "detail": ".history.base.views_20231001151313",
+        "documentation": {}
+    },
+    {
+        "label": "static_rooms",
+        "kind": 5,
+        "importPath": ".history.base.views_20231001151313",
+        "description": ".history.base.views_20231001151313",
+        "peekOfCode": "static_rooms = [\n    { 'id': 1, 'name': 'Lets Learn VueJs' },\n    { 'id': 2, 'name': 'Create a Tuorial' },\n    { 'id': 3, 'name': 'Code my own Django Rest API' },\n]\ndef home(request):\n    # get all rooms Object\nrooms = Room.objects.all()\n    context = {'rooms': rooms}\n    return render(request, 'base/home.html', context)",
+        "detail": ".history.base.views_20231001151313",
+        "documentation": {}
+    },
+    {
+        "label": "rooms",
+        "kind": 5,
+        "importPath": ".history.base.views_20231001151313",
+        "description": ".history.base.views_20231001151313",
+        "peekOfCode": "rooms = Room.objects.all()\n    context = {'rooms': rooms}\n    return render(request, 'base/home.html', context)\ndef room(request, pk):\n    room = None\n    for i in rooms:\n        if i['id'] == int(pk):\n            room = i\n    context = { 'room': room }\n    return render(request, 'base/room.html', context)",
+        "detail": ".history.base.views_20231001151313",
+        "documentation": {}
+    },
+    {
+        "label": "home",
+        "kind": 2,
+        "importPath": ".history.base.views_20231001151316",
+        "description": ".history.base.views_20231001151316",
+        "peekOfCode": "def home(request):\n    # get all rooms Object\n    rooms = Room.objects.all()\n    context = {'rooms': rooms}\n    return render(request, 'base/home.html', context)\ndef room(request, pk):\n    room = None\n    for i in rooms:\n        if i['id'] == int(pk):\n            room = i",
+        "detail": ".history.base.views_20231001151316",
+        "documentation": {}
+    },
+    {
+        "label": "room",
+        "kind": 2,
+        "importPath": ".history.base.views_20231001151316",
+        "description": ".history.base.views_20231001151316",
+        "peekOfCode": "def room(request, pk):\n    room = None\n    for i in rooms:\n        if i['id'] == int(pk):\n            room = i\n    context = { 'room': room }\n    return render(request, 'base/room.html', context)",
+        "detail": ".history.base.views_20231001151316",
+        "documentation": {}
+    },
+    {
+        "label": "static_rooms",
+        "kind": 5,
+        "importPath": ".history.base.views_20231001151316",
+        "description": ".history.base.views_20231001151316",
+        "peekOfCode": "static_rooms = [\n    { 'id': 1, 'name': 'Lets Learn VueJs' },\n    { 'id': 2, 'name': 'Create a Tuorial' },\n    { 'id': 3, 'name': 'Code my own Django Rest API' },\n]\ndef home(request):\n    # get all rooms Object\n    rooms = Room.objects.all()\n    context = {'rooms': rooms}\n    return render(request, 'base/home.html', context)",
+        "detail": ".history.base.views_20231001151316",
+        "documentation": {}
+    },
+    {
+        "label": "home",
+        "kind": 2,
+        "importPath": ".history.base.views_20231001151318",
+        "description": ".history.base.views_20231001151318",
+        "peekOfCode": "def home(request):\n    # get all rooms Object\n    rooms = Room.objects.all()\n    context = {'rooms': rooms}\n    return render(request, 'base/home.html', context)\ndef room(request, pk):\n    room = None\n    for i in rooms:\n        if i['id'] == int(pk):\n            room = i",
+        "detail": ".history.base.views_20231001151318",
+        "documentation": {}
+    },
+    {
+        "label": "room",
+        "kind": 2,
+        "importPath": ".history.base.views_20231001151318",
+        "description": ".history.base.views_20231001151318",
+        "peekOfCode": "def room(request, pk):\n    room = None\n    for i in rooms:\n        if i['id'] == int(pk):\n            room = i\n    context = { 'room': room }\n    return render(request, 'base/room.html', context)",
+        "detail": ".history.base.views_20231001151318",
+        "documentation": {}
+    },
+    {
+        "label": "static_rooms",
+        "kind": 5,
+        "importPath": ".history.base.views_20231001151318",
+        "description": ".history.base.views_20231001151318",
+        "peekOfCode": "static_rooms = [\n    { 'id': 1, 'name': 'Lets Learn VueJs' },\n    { 'id': 2, 'name': 'Create a Tuorial' },\n    { 'id': 3, 'name': 'Code my own Django Rest API' },\n]\ndef home(request):\n    # get all rooms Object\n    rooms = Room.objects.all()\n    context = {'rooms': rooms}\n    return render(request, 'base/home.html', context)",
+        "detail": ".history.base.views_20231001151318",
+        "documentation": {}
+    },
+    {
+        "label": "home",
+        "kind": 2,
+        "importPath": ".history.base.views_20231001151326",
+        "description": ".history.base.views_20231001151326",
+        "peekOfCode": "def home(request):\n    # get all rooms Object\n    rooms = Room.objects.all()\n    context = {'rooms': rooms}\n    return render(request, 'base/home.html', context)\ndef room(request, pk):\n    room = None\n    for i in rooms:\n        if i['id'] == int(pk):\n            room = i",
+        "detail": ".history.base.views_20231001151326",
+        "documentation": {}
+    },
+    {
+        "label": "room",
+        "kind": 2,
+        "importPath": ".history.base.views_20231001151326",
+        "description": ".history.base.views_20231001151326",
+        "peekOfCode": "def room(request, pk):\n    room = None\n    for i in rooms:\n        if i['id'] == int(pk):\n            room = i\n    context = { 'room': room }\n    return render(request, 'base/room.html', context)",
+        "detail": ".history.base.views_20231001151326",
+        "documentation": {}
+    },
+    {
+        "label": "static_rooms",
+        "kind": 5,
+        "importPath": ".history.base.views_20231001151326",
+        "description": ".history.base.views_20231001151326",
+        "peekOfCode": "static_rooms = [\n    { 'id': 1, 'name': 'Lets Learn VueJs' },\n    { 'id': 2, 'name': 'Create a Tuorial' },\n    { 'id': 3, 'name': 'Code my own Django Rest API' },\n]\ndef home(request):\n    # get all rooms Object\n    rooms = Room.objects.all()\n    context = {'rooms': rooms}\n    return render(request, 'base/home.html', context)",
+        "detail": ".history.base.views_20231001151326",
+        "documentation": {}
+    },
+    {
+        "label": "home",
+        "kind": 2,
+        "importPath": ".history.base.views_20231001151330",
+        "description": ".history.base.views_20231001151330",
+        "peekOfCode": "def home(request):\n    # get all rooms Object\n    rooms = Room.objects.all()\n    context = {'rooms': rooms}\n    return render(request, 'base/home.html', context)\ndef room(request, pk):\n    # get all rooms Object\nrooms = Room.objects.all()\n    room = None\n    for i in rooms:",
+        "detail": ".history.base.views_20231001151330",
+        "documentation": {}
+    },
+    {
+        "label": "room",
+        "kind": 2,
+        "importPath": ".history.base.views_20231001151330",
+        "description": ".history.base.views_20231001151330",
+        "peekOfCode": "def room(request, pk):\n    # get all rooms Object\nrooms = Room.objects.all()\n    room = None\n    for i in rooms:\n        if i['id'] == int(pk):\n            room = i\n    context = { 'room': room }\n    return render(request, 'base/room.html', context)",
+        "detail": ".history.base.views_20231001151330",
+        "documentation": {}
+    },
+    {
+        "label": "static_rooms",
+        "kind": 5,
+        "importPath": ".history.base.views_20231001151330",
+        "description": ".history.base.views_20231001151330",
+        "peekOfCode": "static_rooms = [\n    { 'id': 1, 'name': 'Lets Learn VueJs' },\n    { 'id': 2, 'name': 'Create a Tuorial' },\n    { 'id': 3, 'name': 'Code my own Django Rest API' },\n]\ndef home(request):\n    # get all rooms Object\n    rooms = Room.objects.all()\n    context = {'rooms': rooms}\n    return render(request, 'base/home.html', context)",
+        "detail": ".history.base.views_20231001151330",
+        "documentation": {}
+    },
+    {
+        "label": "rooms",
+        "kind": 5,
+        "importPath": ".history.base.views_20231001151330",
+        "description": ".history.base.views_20231001151330",
+        "peekOfCode": "rooms = Room.objects.all()\n    room = None\n    for i in rooms:\n        if i['id'] == int(pk):\n            room = i\n    context = { 'room': room }\n    return render(request, 'base/room.html', context)",
+        "detail": ".history.base.views_20231001151330",
+        "documentation": {}
+    },
+    {
+        "label": "home",
+        "kind": 2,
+        "importPath": ".history.base.views_20231001151335",
+        "description": ".history.base.views_20231001151335",
+        "peekOfCode": "def home(request):\n    # get all rooms Object\n    rooms = Room.objects.all()\n    context = {'rooms': rooms}\n    return render(request, 'base/home.html', context)\ndef room(request, pk):\n    # get all rooms Object\n    rooms = Room.objects.all()\n    room = None\n    for i in rooms:",
+        "detail": ".history.base.views_20231001151335",
+        "documentation": {}
+    },
+    {
+        "label": "room",
+        "kind": 2,
+        "importPath": ".history.base.views_20231001151335",
+        "description": ".history.base.views_20231001151335",
+        "peekOfCode": "def room(request, pk):\n    # get all rooms Object\n    rooms = Room.objects.all()\n    room = None\n    for i in rooms:\n        if i['id'] == int(pk):\n            room = i\n    context = { 'room': room }\n    return render(request, 'base/room.html', context)",
+        "detail": ".history.base.views_20231001151335",
+        "documentation": {}
+    },
+    {
+        "label": "static_rooms",
+        "kind": 5,
+        "importPath": ".history.base.views_20231001151335",
+        "description": ".history.base.views_20231001151335",
+        "peekOfCode": "static_rooms = [\n    { 'id': 1, 'name': 'Lets Learn VueJs' },\n    { 'id': 2, 'name': 'Create a Tuorial' },\n    { 'id': 3, 'name': 'Code my own Django Rest API' },\n]\ndef home(request):\n    # get all rooms Object\n    rooms = Room.objects.all()\n    context = {'rooms': rooms}\n    return render(request, 'base/home.html', context)",
+        "detail": ".history.base.views_20231001151335",
+        "documentation": {}
+    },
+    {
+        "label": "home",
+        "kind": 2,
+        "importPath": ".history.base.views_20231001151337",
+        "description": ".history.base.views_20231001151337",
+        "peekOfCode": "def home(request):\n    # get all rooms Object\n    rooms = Room.objects.all()\n    context = {'rooms': rooms}\n    return render(request, 'base/home.html', context)\ndef room(request, pk):\n    # get all rooms Object\n    rooms = Room.objects.all()\n    room = None\n    for i in rooms:",
+        "detail": ".history.base.views_20231001151337",
+        "documentation": {}
+    },
+    {
+        "label": "room",
+        "kind": 2,
+        "importPath": ".history.base.views_20231001151337",
+        "description": ".history.base.views_20231001151337",
+        "peekOfCode": "def room(request, pk):\n    # get all rooms Object\n    rooms = Room.objects.all()\n    room = None\n    for i in rooms:\n        if i['id'] == int(pk):\n            room = i\n    context = { 'room': room }\n    return render(request, 'base/room.html', context)",
+        "detail": ".history.base.views_20231001151337",
+        "documentation": {}
+    },
+    {
+        "label": "static_rooms",
+        "kind": 5,
+        "importPath": ".history.base.views_20231001151337",
+        "description": ".history.base.views_20231001151337",
+        "peekOfCode": "static_rooms = [\n    { 'id': 1, 'name': 'Lets Learn VueJs' },\n    { 'id': 2, 'name': 'Create a Tuorial' },\n    { 'id': 3, 'name': 'Code my own Django Rest API' },\n]\ndef home(request):\n    # get all rooms Object\n    rooms = Room.objects.all()\n    context = {'rooms': rooms}\n    return render(request, 'base/home.html', context)",
+        "detail": ".history.base.views_20231001151337",
+        "documentation": {}
+    },
+    {
+        "label": "home",
+        "kind": 2,
+        "importPath": ".history.base.views_20231001151835",
+        "description": ".history.base.views_20231001151835",
+        "peekOfCode": "def home(request):\n    # get all rooms Object\n    rooms = Room.objects.all()\n    context = {'rooms': rooms}\n    return render(request, 'base/home.html', context)\ndef room(request, pk):\n    # get all rooms Object\n    rooms = Room.objects.)\n    room = None\n    for i in rooms:",
+        "detail": ".history.base.views_20231001151835",
+        "documentation": {}
+    },
+    {
+        "label": "room",
+        "kind": 2,
+        "importPath": ".history.base.views_20231001151835",
+        "description": ".history.base.views_20231001151835",
+        "peekOfCode": "def room(request, pk):\n    # get all rooms Object\n    rooms = Room.objects.)\n    room = None\n    for i in rooms:\n        if i['id'] == int(pk):\n            room = i\n    context = { 'room': room }\n    return render(request, 'base/room.html', context)",
+        "detail": ".history.base.views_20231001151835",
+        "documentation": {}
+    },
+    {
+        "label": "static_rooms",
+        "kind": 5,
+        "importPath": ".history.base.views_20231001151835",
+        "description": ".history.base.views_20231001151835",
+        "peekOfCode": "static_rooms = [\n    { 'id': 1, 'name': 'Lets Learn VueJs' },\n    { 'id': 2, 'name': 'Create a Tuorial' },\n    { 'id': 3, 'name': 'Code my own Django Rest API' },\n]\ndef home(request):\n    # get all rooms Object\n    rooms = Room.objects.all()\n    context = {'rooms': rooms}\n    return render(request, 'base/home.html', context)",
+        "detail": ".history.base.views_20231001151835",
+        "documentation": {}
+    },
+    {
+        "label": "home",
+        "kind": 2,
+        "importPath": ".history.base.views_20231001151839",
+        "description": ".history.base.views_20231001151839",
+        "peekOfCode": "def home(request):\n    # get all rooms Object\n    rooms = Room.objects.all()\n    context = {'rooms': rooms}\n    return render(request, 'base/home.html', context)\ndef room(request, pk):\n    # get all rooms Object\n    rooms = Room.objects.get()\n    room = None\n    for i in rooms:",
+        "detail": ".history.base.views_20231001151839",
+        "documentation": {}
+    },
+    {
+        "label": "room",
+        "kind": 2,
+        "importPath": ".history.base.views_20231001151839",
+        "description": ".history.base.views_20231001151839",
+        "peekOfCode": "def room(request, pk):\n    # get all rooms Object\n    rooms = Room.objects.get()\n    room = None\n    for i in rooms:\n        if i['id'] == int(pk):\n            room = i\n    context = { 'room': room }\n    return render(request, 'base/room.html', context)",
+        "detail": ".history.base.views_20231001151839",
+        "documentation": {}
+    },
+    {
+        "label": "static_rooms",
+        "kind": 5,
+        "importPath": ".history.base.views_20231001151839",
+        "description": ".history.base.views_20231001151839",
+        "peekOfCode": "static_rooms = [\n    { 'id': 1, 'name': 'Lets Learn VueJs' },\n    { 'id': 2, 'name': 'Create a Tuorial' },\n    { 'id': 3, 'name': 'Code my own Django Rest API' },\n]\ndef home(request):\n    # get all rooms Object\n    rooms = Room.objects.all()\n    context = {'rooms': rooms}\n    return render(request, 'base/home.html', context)",
+        "detail": ".history.base.views_20231001151839",
+        "documentation": {}
+    },
+    {
+        "label": "home",
+        "kind": 2,
+        "importPath": ".history.base.views_20231001151845",
+        "description": ".history.base.views_20231001151845",
+        "peekOfCode": "def home(request):\n    # get all rooms Object\n    rooms = Room.objects.all()\n    context = {'rooms': rooms}\n    return render(request, 'base/home.html', context)\ndef room(request, pk):\n    # get all rooms Object\n    rooms = Room.objects.get(id)\n    room = None\n    for i in rooms:",
+        "detail": ".history.base.views_20231001151845",
+        "documentation": {}
+    },
+    {
+        "label": "room",
+        "kind": 2,
+        "importPath": ".history.base.views_20231001151845",
+        "description": ".history.base.views_20231001151845",
+        "peekOfCode": "def room(request, pk):\n    # get all rooms Object\n    rooms = Room.objects.get(id)\n    room = None\n    for i in rooms:\n        if i['id'] == int(pk):\n            room = i\n    context = { 'room': room }\n    return render(request, 'base/room.html', context)",
+        "detail": ".history.base.views_20231001151845",
+        "documentation": {}
+    },
+    {
+        "label": "static_rooms",
+        "kind": 5,
+        "importPath": ".history.base.views_20231001151845",
+        "description": ".history.base.views_20231001151845",
+        "peekOfCode": "static_rooms = [\n    { 'id': 1, 'name': 'Lets Learn VueJs' },\n    { 'id': 2, 'name': 'Create a Tuorial' },\n    { 'id': 3, 'name': 'Code my own Django Rest API' },\n]\ndef home(request):\n    # get all rooms Object\n    rooms = Room.objects.all()\n    context = {'rooms': rooms}\n    return render(request, 'base/home.html', context)",
+        "detail": ".history.base.views_20231001151845",
+        "documentation": {}
+    },
+    {
+        "label": "home",
+        "kind": 2,
+        "importPath": ".history.base.views_20231001151850",
+        "description": ".history.base.views_20231001151850",
+        "peekOfCode": "def home(request):\n    # get all rooms Object\n    rooms = Room.objects.all()\n    context = {'rooms': rooms}\n    return render(request, 'base/home.html', context)\ndef room(request, pk):\n    # get all rooms Object\n    rooms = Room.objects.get(id=pk)\n    room = None\n    for i in rooms:",
+        "detail": ".history.base.views_20231001151850",
+        "documentation": {}
+    },
+    {
+        "label": "room",
+        "kind": 2,
+        "importPath": ".history.base.views_20231001151850",
+        "description": ".history.base.views_20231001151850",
+        "peekOfCode": "def room(request, pk):\n    # get all rooms Object\n    rooms = Room.objects.get(id=pk)\n    room = None\n    for i in rooms:\n        if i['id'] == int(pk):\n            room = i\n    context = { 'room': room }\n    return render(request, 'base/room.html', context)",
+        "detail": ".history.base.views_20231001151850",
+        "documentation": {}
+    },
+    {
+        "label": "static_rooms",
+        "kind": 5,
+        "importPath": ".history.base.views_20231001151850",
+        "description": ".history.base.views_20231001151850",
+        "peekOfCode": "static_rooms = [\n    { 'id': 1, 'name': 'Lets Learn VueJs' },\n    { 'id': 2, 'name': 'Create a Tuorial' },\n    { 'id': 3, 'name': 'Code my own Django Rest API' },\n]\ndef home(request):\n    # get all rooms Object\n    rooms = Room.objects.all()\n    context = {'rooms': rooms}\n    return render(request, 'base/home.html', context)",
+        "detail": ".history.base.views_20231001151850",
+        "documentation": {}
+    },
+    {
+        "label": "home",
+        "kind": 2,
+        "importPath": ".history.base.views_20231001151923",
+        "description": ".history.base.views_20231001151923",
+        "peekOfCode": "def home(request):\n    # get all rooms Object\n    rooms = Room.objects.all()\n    context = {'rooms': rooms}\n    return render(request, 'base/home.html', context)\ndef room(request, pk):\n    # get all rooms Object\n    rooms = Room.objects.get(id=pk)\n    room = None\n    context = { 'room': room }",
+        "detail": ".history.base.views_20231001151923",
+        "documentation": {}
+    },
+    {
+        "label": "room",
+        "kind": 2,
+        "importPath": ".history.base.views_20231001151923",
+        "description": ".history.base.views_20231001151923",
+        "peekOfCode": "def room(request, pk):\n    # get all rooms Object\n    rooms = Room.objects.get(id=pk)\n    room = None\n    context = { 'room': room }\n    return render(request, 'base/room.html', context)",
+        "detail": ".history.base.views_20231001151923",
+        "documentation": {}
+    },
+    {
+        "label": "static_rooms",
+        "kind": 5,
+        "importPath": ".history.base.views_20231001151923",
+        "description": ".history.base.views_20231001151923",
+        "peekOfCode": "static_rooms = [\n    { 'id': 1, 'name': 'Lets Learn VueJs' },\n    { 'id': 2, 'name': 'Create a Tuorial' },\n    { 'id': 3, 'name': 'Code my own Django Rest API' },\n]\ndef home(request):\n    # get all rooms Object\n    rooms = Room.objects.all()\n    context = {'rooms': rooms}\n    return render(request, 'base/home.html', context)",
+        "detail": ".history.base.views_20231001151923",
+        "documentation": {}
+    },
+    {
+        "label": "home",
+        "kind": 2,
+        "importPath": ".history.base.views_20231001151926",
+        "description": ".history.base.views_20231001151926",
+        "peekOfCode": "def home(request):\n    # get all rooms Object\n    rooms = Room.objects.all()\n    context = {'rooms': rooms}\n    return render(request, 'base/home.html', context)\ndef room(request, pk):\n    # get all rooms Object\n    rooms = Room.objects.get(id=pk)\n    room = None\n    context = { 'room': room }",
+        "detail": ".history.base.views_20231001151926",
+        "documentation": {}
+    },
+    {
+        "label": "room",
+        "kind": 2,
+        "importPath": ".history.base.views_20231001151926",
+        "description": ".history.base.views_20231001151926",
+        "peekOfCode": "def room(request, pk):\n    # get all rooms Object\n    rooms = Room.objects.get(id=pk)\n    room = None\n    context = { 'room': room }\n    return render(request, 'base/room.html', context)",
+        "detail": ".history.base.views_20231001151926",
+        "documentation": {}
+    },
+    {
+        "label": "static_rooms",
+        "kind": 5,
+        "importPath": ".history.base.views_20231001151926",
+        "description": ".history.base.views_20231001151926",
+        "peekOfCode": "static_rooms = [\n    { 'id': 1, 'name': 'Lets Learn VueJs' },\n    { 'id': 2, 'name': 'Create a Tuorial' },\n    { 'id': 3, 'name': 'Code my own Django Rest API' },\n]\ndef home(request):\n    # get all rooms Object\n    rooms = Room.objects.all()\n    context = {'rooms': rooms}\n    return render(request, 'base/home.html', context)",
+        "detail": ".history.base.views_20231001151926",
+        "documentation": {}
+    },
+    {
+        "label": "home",
+        "kind": 2,
+        "importPath": ".history.base.views_20231001151929",
+        "description": ".history.base.views_20231001151929",
+        "peekOfCode": "def home(request):\n    # get all rooms Object\n    rooms = Room.objects.all()\n    context = {'rooms': rooms}\n    return render(request, 'base/home.html', context)\ndef room(request, pk):\n    # get all rooms Object\n    rooms = Room.objects.get(id=pk)\n    context = { 'room': room }\n    return render(request, 'base/room.html', context)",
+        "detail": ".history.base.views_20231001151929",
+        "documentation": {}
+    },
+    {
+        "label": "room",
+        "kind": 2,
+        "importPath": ".history.base.views_20231001151929",
+        "description": ".history.base.views_20231001151929",
+        "peekOfCode": "def room(request, pk):\n    # get all rooms Object\n    rooms = Room.objects.get(id=pk)\n    context = { 'room': room }\n    return render(request, 'base/room.html', context)",
+        "detail": ".history.base.views_20231001151929",
+        "documentation": {}
+    },
+    {
+        "label": "static_rooms",
+        "kind": 5,
+        "importPath": ".history.base.views_20231001151929",
+        "description": ".history.base.views_20231001151929",
+        "peekOfCode": "static_rooms = [\n    { 'id': 1, 'name': 'Lets Learn VueJs' },\n    { 'id': 2, 'name': 'Create a Tuorial' },\n    { 'id': 3, 'name': 'Code my own Django Rest API' },\n]\ndef home(request):\n    # get all rooms Object\n    rooms = Room.objects.all()\n    context = {'rooms': rooms}\n    return render(request, 'base/home.html', context)",
+        "detail": ".history.base.views_20231001151929",
+        "documentation": {}
+    },
+    {
+        "label": "home",
+        "kind": 2,
+        "importPath": ".history.base.views_20231001151938",
+        "description": ".history.base.views_20231001151938",
+        "peekOfCode": "def home(request):\n    # get all rooms Object\n    rooms = Room.objects.all()\n    context = {'rooms': rooms}\n    return render(request, 'base/home.html', context)\ndef room(request, pk):\n    # get all rooms Object\n    room = Room.objects.get(id=pk)\n    context = { 'room': room }\n    return render(request, 'base/room.html', context)",
+        "detail": ".history.base.views_20231001151938",
+        "documentation": {}
+    },
+    {
+        "label": "room",
+        "kind": 2,
+        "importPath": ".history.base.views_20231001151938",
+        "description": ".history.base.views_20231001151938",
+        "peekOfCode": "def room(request, pk):\n    # get all rooms Object\n    room = Room.objects.get(id=pk)\n    context = { 'room': room }\n    return render(request, 'base/room.html', context)",
+        "detail": ".history.base.views_20231001151938",
+        "documentation": {}
+    },
+    {
+        "label": "static_rooms",
+        "kind": 5,
+        "importPath": ".history.base.views_20231001151938",
+        "description": ".history.base.views_20231001151938",
+        "peekOfCode": "static_rooms = [\n    { 'id': 1, 'name': 'Lets Learn VueJs' },\n    { 'id': 2, 'name': 'Create a Tuorial' },\n    { 'id': 3, 'name': 'Code my own Django Rest API' },\n]\ndef home(request):\n    # get all rooms Object\n    rooms = Room.objects.all()\n    context = {'rooms': rooms}\n    return render(request, 'base/home.html', context)",
+        "detail": ".history.base.views_20231001151938",
+        "documentation": {}
+    },
+    {
+        "label": "home",
+        "kind": 2,
+        "importPath": ".history.base.views_20231001151940",
+        "description": ".history.base.views_20231001151940",
+        "peekOfCode": "def home(request):\n    # get all rooms Object\n    rooms = Room.objects.all()\n    context = {'rooms': rooms}\n    return render(request, 'base/home.html', context)\ndef room(request, pk):\n    # get all rooms Object\n    room = Room.objects.get(id=pk)\n    context = { 'room': room }\n    return render(request, 'base/room.html', context)",
+        "detail": ".history.base.views_20231001151940",
+        "documentation": {}
+    },
+    {
+        "label": "room",
+        "kind": 2,
+        "importPath": ".history.base.views_20231001151940",
+        "description": ".history.base.views_20231001151940",
+        "peekOfCode": "def room(request, pk):\n    # get all rooms Object\n    room = Room.objects.get(id=pk)\n    context = { 'room': room }\n    return render(request, 'base/room.html', context)",
+        "detail": ".history.base.views_20231001151940",
+        "documentation": {}
+    },
+    {
+        "label": "static_rooms",
+        "kind": 5,
+        "importPath": ".history.base.views_20231001151940",
+        "description": ".history.base.views_20231001151940",
+        "peekOfCode": "static_rooms = [\n    { 'id': 1, 'name': 'Lets Learn VueJs' },\n    { 'id': 2, 'name': 'Create a Tuorial' },\n    { 'id': 3, 'name': 'Code my own Django Rest API' },\n]\ndef home(request):\n    # get all rooms Object\n    rooms = Room.objects.all()\n    context = {'rooms': rooms}\n    return render(request, 'base/home.html', context)",
+        "detail": ".history.base.views_20231001151940",
+        "documentation": {}
+    },
+    {
+        "label": "home",
+        "kind": 2,
+        "importPath": ".history.base.views_20231001151945",
+        "description": ".history.base.views_20231001151945",
+        "peekOfCode": "def home(request):\n    # get all rooms Object\n    rooms = Room.objects.all()\n    context = {'rooms': rooms}\n    return render(request, 'base/home.html', context)\ndef room(request, pk):\n    # get all rooms Object\n    rooms = Room.objects.get(id=pk)\n    room = None\n    for i in rooms:",
+        "detail": ".history.base.views_20231001151945",
+        "documentation": {}
+    },
+    {
+        "label": "room",
+        "kind": 2,
+        "importPath": ".history.base.views_20231001151945",
+        "description": ".history.base.views_20231001151945",
+        "peekOfCode": "def room(request, pk):\n    # get all rooms Object\n    rooms = Room.objects.get(id=pk)\n    room = None\n    for i in rooms:\n        if i['id'] == int(pk):\n            room = i\n    context = { 'room': room }\n    return render(request, 'base/room.html', context)",
+        "detail": ".history.base.views_20231001151945",
+        "documentation": {}
+    },
+    {
+        "label": "static_rooms",
+        "kind": 5,
+        "importPath": ".history.base.views_20231001151945",
+        "description": ".history.base.views_20231001151945",
+        "peekOfCode": "static_rooms = [\n    { 'id': 1, 'name': 'Lets Learn VueJs' },\n    { 'id': 2, 'name': 'Create a Tuorial' },\n    { 'id': 3, 'name': 'Code my own Django Rest API' },\n]\ndef home(request):\n    # get all rooms Object\n    rooms = Room.objects.all()\n    context = {'rooms': rooms}\n    return render(request, 'base/home.html', context)",
+        "detail": ".history.base.views_20231001151945",
+        "documentation": {}
+    },
+    {
+        "label": "home",
+        "kind": 2,
+        "importPath": ".history.base.views_20231001151953",
+        "description": ".history.base.views_20231001151953",
+        "peekOfCode": "def home(request):\n    # get all rooms Object\n    rooms = Room.objects.all()\n    context = {'rooms': rooms}\n    return render(request, 'base/home.html', context)\ndef room(request, pk):\n    # get all rooms Object\n    rooms = Room.objects.get(id=pk)\n    context = { 'room': room }\n    return render(request, 'base/room.html', context)",
+        "detail": ".history.base.views_20231001151953",
+        "documentation": {}
+    },
+    {
+        "label": "room",
+        "kind": 2,
+        "importPath": ".history.base.views_20231001151953",
+        "description": ".history.base.views_20231001151953",
+        "peekOfCode": "def room(request, pk):\n    # get all rooms Object\n    rooms = Room.objects.get(id=pk)\n    context = { 'room': room }\n    return render(request, 'base/room.html', context)",
+        "detail": ".history.base.views_20231001151953",
+        "documentation": {}
+    },
+    {
+        "label": "static_rooms",
+        "kind": 5,
+        "importPath": ".history.base.views_20231001151953",
+        "description": ".history.base.views_20231001151953",
+        "peekOfCode": "static_rooms = [\n    { 'id': 1, 'name': 'Lets Learn VueJs' },\n    { 'id': 2, 'name': 'Create a Tuorial' },\n    { 'id': 3, 'name': 'Code my own Django Rest API' },\n]\ndef home(request):\n    # get all rooms Object\n    rooms = Room.objects.all()\n    context = {'rooms': rooms}\n    return render(request, 'base/home.html', context)",
+        "detail": ".history.base.views_20231001151953",
+        "documentation": {}
+    },
+    {
+        "label": "home",
+        "kind": 2,
+        "importPath": ".history.base.views_20231001151956",
+        "description": ".history.base.views_20231001151956",
+        "peekOfCode": "def home(request):\n    # get all rooms Object\n    rooms = Room.objects.all()\n    context = {'rooms': rooms}\n    return render(request, 'base/home.html', context)\ndef room(request, pk):\n    # get all rooms Object\n    room = Room.objects.get(id=pk)\n    context = { 'room': room }\n    return render(request, 'base/room.html', context)",
+        "detail": ".history.base.views_20231001151956",
+        "documentation": {}
+    },
+    {
+        "label": "room",
+        "kind": 2,
+        "importPath": ".history.base.views_20231001151956",
+        "description": ".history.base.views_20231001151956",
+        "peekOfCode": "def room(request, pk):\n    # get all rooms Object\n    room = Room.objects.get(id=pk)\n    context = { 'room': room }\n    return render(request, 'base/room.html', context)",
+        "detail": ".history.base.views_20231001151956",
+        "documentation": {}
+    },
+    {
+        "label": "static_rooms",
+        "kind": 5,
+        "importPath": ".history.base.views_20231001151956",
+        "description": ".history.base.views_20231001151956",
+        "peekOfCode": "static_rooms = [\n    { 'id': 1, 'name': 'Lets Learn VueJs' },\n    { 'id': 2, 'name': 'Create a Tuorial' },\n    { 'id': 3, 'name': 'Code my own Django Rest API' },\n]\ndef home(request):\n    # get all rooms Object\n    rooms = Room.objects.all()\n    context = {'rooms': rooms}\n    return render(request, 'base/home.html', context)",
+        "detail": ".history.base.views_20231001151956",
+        "documentation": {}
+    },
+    {
         "label": "BASE_DIR",
         "kind": 5,
         "importPath": ".history.studybud.settings_20230930180733",
@@ -11167,7 +13300,7 @@
         "kind": 2,
         "importPath": "base.views",
         "description": "base.views",
-        "peekOfCode": "def home(request):\n    context = {'rooms': rooms}\n    return render(request, 'base/home.html', context)\ndef room(request, pk):\n    room = None\n    for i in rooms:\n        if i['id'] == int(pk):\n            room = i\n    context = { 'room': room }\n    return render(request, 'base/room.html', context)",
+        "peekOfCode": "def home(request):\n    # get all rooms Object\n    rooms = Room.objects.all()\n    context = {'rooms': rooms}\n    return render(request, 'base/home.html', context)\ndef room(request, pk):\n    # get all rooms Object\n    room = Room.objects.get(id=pk)\n    context = { 'room': room }\n    return render(request, 'base/room.html', context)",
         "detail": "base.views",
         "documentation": {}
     },
@@ -11176,16 +13309,16 @@
         "kind": 2,
         "importPath": "base.views",
         "description": "base.views",
-        "peekOfCode": "def room(request, pk):\n    room = None\n    for i in rooms:\n        if i['id'] == int(pk):\n            room = i\n    context = { 'room': room }\n    return render(request, 'base/room.html', context)",
+        "peekOfCode": "def room(request, pk):\n    # get all rooms Object\n    room = Room.objects.get(id=pk)\n    context = { 'room': room }\n    return render(request, 'base/room.html', context)",
         "detail": "base.views",
         "documentation": {}
     },
     {
-        "label": "rooms",
+        "label": "static_rooms",
         "kind": 5,
         "importPath": "base.views",
         "description": "base.views",
-        "peekOfCode": "rooms = [\n    { 'id': 1, 'name': 'Lets Learn VueJs' },\n    { 'id': 2, 'name': 'Create a Tuorial' },\n    { 'id': 3, 'name': 'Code my own Django Rest API' },\n]\ndef home(request):\n    context = {'rooms': rooms}\n    return render(request, 'base/home.html', context)\ndef room(request, pk):\n    room = None",
+        "peekOfCode": "static_rooms = [\n    { 'id': 1, 'name': 'Lets Learn VueJs' },\n    { 'id': 2, 'name': 'Create a Tuorial' },\n    { 'id': 3, 'name': 'Code my own Django Rest API' },\n]\ndef home(request):\n    # get all rooms Object\n    rooms = Room.objects.all()\n    context = {'rooms': rooms}\n    return render(request, 'base/home.html', context)",
         "detail": "base.views",
         "documentation": {}
     },
