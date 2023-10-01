@@ -1,5 +1,389 @@
 [
     {
+        "label": "models",
+        "importPath": "django.db",
+        "description": "django.db",
+        "isExtraImport": true,
+        "detail": "django.db",
+        "documentation": {}
+    },
+    {
+        "label": "models",
+        "importPath": "django.db",
+        "description": "django.db",
+        "isExtraImport": true,
+        "detail": "django.db",
+        "documentation": {}
+    },
+    {
+        "label": "models",
+        "importPath": "django.db",
+        "description": "django.db",
+        "isExtraImport": true,
+        "detail": "django.db",
+        "documentation": {}
+    },
+    {
+        "label": "models",
+        "importPath": "django.db",
+        "description": "django.db",
+        "isExtraImport": true,
+        "detail": "django.db",
+        "documentation": {}
+    },
+    {
+        "label": "models",
+        "importPath": "django.db",
+        "description": "django.db",
+        "isExtraImport": true,
+        "detail": "django.db",
+        "documentation": {}
+    },
+    {
+        "label": "models",
+        "importPath": "django.db",
+        "description": "django.db",
+        "isExtraImport": true,
+        "detail": "django.db",
+        "documentation": {}
+    },
+    {
+        "label": "models",
+        "importPath": "django.db",
+        "description": "django.db",
+        "isExtraImport": true,
+        "detail": "django.db",
+        "documentation": {}
+    },
+    {
+        "label": "models",
+        "importPath": "django.db",
+        "description": "django.db",
+        "isExtraImport": true,
+        "detail": "django.db",
+        "documentation": {}
+    },
+    {
+        "label": "models",
+        "importPath": "django.db",
+        "description": "django.db",
+        "isExtraImport": true,
+        "detail": "django.db",
+        "documentation": {}
+    },
+    {
+        "label": "models",
+        "importPath": "django.db",
+        "description": "django.db",
+        "isExtraImport": true,
+        "detail": "django.db",
+        "documentation": {}
+    },
+    {
+        "label": "models",
+        "importPath": "django.db",
+        "description": "django.db",
+        "isExtraImport": true,
+        "detail": "django.db",
+        "documentation": {}
+    },
+    {
+        "label": "models",
+        "importPath": "django.db",
+        "description": "django.db",
+        "isExtraImport": true,
+        "detail": "django.db",
+        "documentation": {}
+    },
+    {
+        "label": "models",
+        "importPath": "django.db",
+        "description": "django.db",
+        "isExtraImport": true,
+        "detail": "django.db",
+        "documentation": {}
+    },
+    {
+        "label": "models",
+        "importPath": "django.db",
+        "description": "django.db",
+        "isExtraImport": true,
+        "detail": "django.db",
+        "documentation": {}
+    },
+    {
+        "label": "models",
+        "importPath": "django.db",
+        "description": "django.db",
+        "isExtraImport": true,
+        "detail": "django.db",
+        "documentation": {}
+    },
+    {
+        "label": "models",
+        "importPath": "django.db",
+        "description": "django.db",
+        "isExtraImport": true,
+        "detail": "django.db",
+        "documentation": {}
+    },
+    {
+        "label": "models",
+        "importPath": "django.db",
+        "description": "django.db",
+        "isExtraImport": true,
+        "detail": "django.db",
+        "documentation": {}
+    },
+    {
+        "label": "models",
+        "importPath": "django.db",
+        "description": "django.db",
+        "isExtraImport": true,
+        "detail": "django.db",
+        "documentation": {}
+    },
+    {
+        "label": "models",
+        "importPath": "django.db",
+        "description": "django.db",
+        "isExtraImport": true,
+        "detail": "django.db",
+        "documentation": {}
+    },
+    {
+        "label": "models",
+        "importPath": "django.db",
+        "description": "django.db",
+        "isExtraImport": true,
+        "detail": "django.db",
+        "documentation": {}
+    },
+    {
+        "label": "models",
+        "importPath": "django.db",
+        "description": "django.db",
+        "isExtraImport": true,
+        "detail": "django.db",
+        "documentation": {}
+    },
+    {
+        "label": "models",
+        "importPath": "django.db",
+        "description": "django.db",
+        "isExtraImport": true,
+        "detail": "django.db",
+        "documentation": {}
+    },
+    {
+        "label": "models",
+        "importPath": "django.db",
+        "description": "django.db",
+        "isExtraImport": true,
+        "detail": "django.db",
+        "documentation": {}
+    },
+    {
+        "label": "models",
+        "importPath": "django.db",
+        "description": "django.db",
+        "isExtraImport": true,
+        "detail": "django.db",
+        "documentation": {}
+    },
+    {
+        "label": "models",
+        "importPath": "django.db",
+        "description": "django.db",
+        "isExtraImport": true,
+        "detail": "django.db",
+        "documentation": {}
+    },
+    {
+        "label": "models",
+        "importPath": "django.db",
+        "description": "django.db",
+        "isExtraImport": true,
+        "detail": "django.db",
+        "documentation": {}
+    },
+    {
+        "label": "models",
+        "importPath": "django.db",
+        "description": "django.db",
+        "isExtraImport": true,
+        "detail": "django.db",
+        "documentation": {}
+    },
+    {
+        "label": "models",
+        "importPath": "django.db",
+        "description": "django.db",
+        "isExtraImport": true,
+        "detail": "django.db",
+        "documentation": {}
+    },
+    {
+        "label": "models",
+        "importPath": "django.db",
+        "description": "django.db",
+        "isExtraImport": true,
+        "detail": "django.db",
+        "documentation": {}
+    },
+    {
+        "label": "models",
+        "importPath": "django.db",
+        "description": "django.db",
+        "isExtraImport": true,
+        "detail": "django.db",
+        "documentation": {}
+    },
+    {
+        "label": "models",
+        "importPath": "django.db",
+        "description": "django.db",
+        "isExtraImport": true,
+        "detail": "django.db",
+        "documentation": {}
+    },
+    {
+        "label": "models",
+        "importPath": "django.db",
+        "description": "django.db",
+        "isExtraImport": true,
+        "detail": "django.db",
+        "documentation": {}
+    },
+    {
+        "label": "models",
+        "importPath": "django.db",
+        "description": "django.db",
+        "isExtraImport": true,
+        "detail": "django.db",
+        "documentation": {}
+    },
+    {
+        "label": "models",
+        "importPath": "django.db",
+        "description": "django.db",
+        "isExtraImport": true,
+        "detail": "django.db",
+        "documentation": {}
+    },
+    {
+        "label": "models",
+        "importPath": "django.db",
+        "description": "django.db",
+        "isExtraImport": true,
+        "detail": "django.db",
+        "documentation": {}
+    },
+    {
+        "label": "models",
+        "importPath": "django.db",
+        "description": "django.db",
+        "isExtraImport": true,
+        "detail": "django.db",
+        "documentation": {}
+    },
+    {
+        "label": "models",
+        "importPath": "django.db",
+        "description": "django.db",
+        "isExtraImport": true,
+        "detail": "django.db",
+        "documentation": {}
+    },
+    {
+        "label": "models",
+        "importPath": "django.db",
+        "description": "django.db",
+        "isExtraImport": true,
+        "detail": "django.db",
+        "documentation": {}
+    },
+    {
+        "label": "models",
+        "importPath": "django.db",
+        "description": "django.db",
+        "isExtraImport": true,
+        "detail": "django.db",
+        "documentation": {}
+    },
+    {
+        "label": "models",
+        "importPath": "django.db",
+        "description": "django.db",
+        "isExtraImport": true,
+        "detail": "django.db",
+        "documentation": {}
+    },
+    {
+        "label": "models",
+        "importPath": "django.db",
+        "description": "django.db",
+        "isExtraImport": true,
+        "detail": "django.db",
+        "documentation": {}
+    },
+    {
+        "label": "models",
+        "importPath": "django.db",
+        "description": "django.db",
+        "isExtraImport": true,
+        "detail": "django.db",
+        "documentation": {}
+    },
+    {
+        "label": "models",
+        "importPath": "django.db",
+        "description": "django.db",
+        "isExtraImport": true,
+        "detail": "django.db",
+        "documentation": {}
+    },
+    {
+        "label": "models",
+        "importPath": "django.db",
+        "description": "django.db",
+        "isExtraImport": true,
+        "detail": "django.db",
+        "documentation": {}
+    },
+    {
+        "label": "models",
+        "importPath": "django.db",
+        "description": "django.db",
+        "isExtraImport": true,
+        "detail": "django.db",
+        "documentation": {}
+    },
+    {
+        "label": "migrations",
+        "importPath": "django.db",
+        "description": "django.db",
+        "isExtraImport": true,
+        "detail": "django.db",
+        "documentation": {}
+    },
+    {
+        "label": "models",
+        "importPath": "django.db",
+        "description": "django.db",
+        "isExtraImport": true,
+        "detail": "django.db",
+        "documentation": {}
+    },
+    {
+        "label": "models",
+        "importPath": "django.db",
+        "description": "django.db",
+        "isExtraImport": true,
+        "detail": "django.db",
+        "documentation": {}
+    },
+    {
         "label": "path",
         "importPath": "django.urls",
         "description": "django.urls",
@@ -3920,14 +4304,6 @@
         "documentation": {}
     },
     {
-        "label": "models",
-        "importPath": "django.db",
-        "description": "django.db",
-        "isExtraImport": true,
-        "detail": "django.db",
-        "documentation": {}
-    },
-    {
         "label": "TestCase",
         "importPath": "django.test",
         "description": "django.test",
@@ -3976,6 +4352,402 @@
         "description": "django.core.wsgi",
         "isExtraImport": true,
         "detail": "django.core.wsgi",
+        "documentation": {}
+    },
+    {
+        "label": "Room",
+        "kind": 6,
+        "importPath": ".history.base.models_20231001093925",
+        "description": ".history.base.models_20231001093925",
+        "peekOfCode": "class Room(models.)",
+        "detail": ".history.base.models_20231001093925",
+        "documentation": {}
+    },
+    {
+        "label": "Room",
+        "kind": 6,
+        "importPath": ".history.base.models_20231001093933",
+        "description": ".history.base.models_20231001093933",
+        "peekOfCode": "class Room(models.Model):",
+        "detail": ".history.base.models_20231001093933",
+        "documentation": {}
+    },
+    {
+        "label": "Room",
+        "kind": 6,
+        "importPath": ".history.base.models_20231001093936",
+        "description": ".history.base.models_20231001093936",
+        "peekOfCode": "class Room(models.Model):",
+        "detail": ".history.base.models_20231001093936",
+        "documentation": {}
+    },
+    {
+        "label": "Room",
+        "kind": 6,
+        "importPath": ".history.base.models_20231001093945",
+        "description": ".history.base.models_20231001093945",
+        "peekOfCode": "class Room(models.Model):\n    name =",
+        "detail": ".history.base.models_20231001093945",
+        "documentation": {}
+    },
+    {
+        "label": "Room",
+        "kind": 6,
+        "importPath": ".history.base.models_20231001093949",
+        "description": ".history.base.models_20231001093949",
+        "peekOfCode": "class Room(models.Model):\n    name = models.",
+        "detail": ".history.base.models_20231001093949",
+        "documentation": {}
+    },
+    {
+        "label": "Room",
+        "kind": 6,
+        "importPath": ".history.base.models_20231001094019",
+        "description": ".history.base.models_20231001094019",
+        "peekOfCode": "class Room(models.Model):\n    name = models.CharFi",
+        "detail": ".history.base.models_20231001094019",
+        "documentation": {}
+    },
+    {
+        "label": "Room",
+        "kind": 6,
+        "importPath": ".history.base.models_20231001094023",
+        "description": ".history.base.models_20231001094023",
+        "peekOfCode": "class Room(models.Model):\n    name = models.CharFi",
+        "detail": ".history.base.models_20231001094023",
+        "documentation": {}
+    },
+    {
+        "label": "Room",
+        "kind": 6,
+        "importPath": ".history.base.models_20231001094031",
+        "description": ".history.base.models_20231001094031",
+        "peekOfCode": "class Room(models.Model):\n    models.Char",
+        "detail": ".history.base.models_20231001094031",
+        "documentation": {}
+    },
+    {
+        "label": "Room",
+        "kind": 6,
+        "importPath": ".history.base.models_20231001094036",
+        "description": ".history.base.models_20231001094036",
+        "peekOfCode": "class Room(models.Model):\n    name = models.CharField",
+        "detail": ".history.base.models_20231001094036",
+        "documentation": {}
+    },
+    {
+        "label": "Room",
+        "kind": 6,
+        "importPath": ".history.base.models_20231001094040",
+        "description": ".history.base.models_20231001094040",
+        "peekOfCode": "class Room(models.Model):\n    name = models.CharField(max_le)",
+        "detail": ".history.base.models_20231001094040",
+        "documentation": {}
+    },
+    {
+        "label": "Room",
+        "kind": 6,
+        "importPath": ".history.base.models_20231001094046",
+        "description": ".history.base.models_20231001094046",
+        "peekOfCode": "class Room(models.Model):\n    name = models.CharField(max_length=200)",
+        "detail": ".history.base.models_20231001094046",
+        "documentation": {}
+    },
+    {
+        "label": "Room",
+        "kind": 6,
+        "importPath": ".history.base.models_20231001094049",
+        "description": ".history.base.models_20231001094049",
+        "peekOfCode": "class Room(models.Model):\n    name = models.CharField(max_length=200)\n    des",
+        "detail": ".history.base.models_20231001094049",
+        "documentation": {}
+    },
+    {
+        "label": "Room",
+        "kind": 6,
+        "importPath": ".history.base.models_20231001094054",
+        "description": ".history.base.models_20231001094054",
+        "peekOfCode": "class Room(models.Model):\n    name = models.CharField(max_length=200)\n    description = models.TextField",
+        "detail": ".history.base.models_20231001094054",
+        "documentation": {}
+    },
+    {
+        "label": "Room",
+        "kind": 6,
+        "importPath": ".history.base.models_20231001094100",
+        "description": ".history.base.models_20231001094100",
+        "peekOfCode": "class Room(models.Model):\n    name = models.CharField(max_length=200)\n    description = models.TextField(n)",
+        "detail": ".history.base.models_20231001094100",
+        "documentation": {}
+    },
+    {
+        "label": "Room",
+        "kind": 6,
+        "importPath": ".history.base.models_20231001094103",
+        "description": ".history.base.models_20231001094103",
+        "peekOfCode": "class Room(models.Model):\n    name = models.CharField(max_length=200)\n    description = models.TextField(null=T)",
+        "detail": ".history.base.models_20231001094103",
+        "documentation": {}
+    },
+    {
+        "label": "Room",
+        "kind": 6,
+        "importPath": ".history.base.models_20231001094115",
+        "description": ".history.base.models_20231001094115",
+        "peekOfCode": "class Room(models.Model):\n    name = models.CharField(max_length=200)\n    description = models.TextField(null=True, blank=True)",
+        "detail": ".history.base.models_20231001094115",
+        "documentation": {}
+    },
+    {
+        "label": "Room",
+        "kind": 6,
+        "importPath": ".history.base.models_20231001094123",
+        "description": ".history.base.models_20231001094123",
+        "peekOfCode": "class Room(models.Model):\n    name = models.CharField(max_length=200)\n    description = models.TextField(null=True, blank=True)\n    participants =",
+        "detail": ".history.base.models_20231001094123",
+        "documentation": {}
+    },
+    {
+        "label": "Room",
+        "kind": 6,
+        "importPath": ".history.base.models_20231001094140",
+        "description": ".history.base.models_20231001094140",
+        "peekOfCode": "class Room(models.Model):\n    # host\n    # topic \n    name = models.CharField(max_length=200)\n    description = models.TextField(null=True, blank=True)\n    participants =",
+        "detail": ".history.base.models_20231001094140",
+        "documentation": {}
+    },
+    {
+        "label": "Room",
+        "kind": 6,
+        "importPath": ".history.base.models_20231001094145",
+        "description": ".history.base.models_20231001094145",
+        "peekOfCode": "class Room(models.Model):\n    # host\n    # topic \n    name = models.CharField(max_length=200)\n    description = models.TextField(null=True, blank=True)\n    #participants",
+        "detail": ".history.base.models_20231001094145",
+        "documentation": {}
+    },
+    {
+        "label": "Room",
+        "kind": 6,
+        "importPath": ".history.base.models_20231001094147",
+        "description": ".history.base.models_20231001094147",
+        "peekOfCode": "class Room(models.Model):\n    # host\n    # topic \n    name = models.CharField(max_length=200)\n    description = models.TextField(null=True, blank=True)\n    #participants =",
+        "detail": ".history.base.models_20231001094147",
+        "documentation": {}
+    },
+    {
+        "label": "Room",
+        "kind": 6,
+        "importPath": ".history.base.models_20231001094151",
+        "description": ".history.base.models_20231001094151",
+        "peekOfCode": "class Room(models.Model):\n    # host\n    # topic \n    name = models.CharField(max_length=200)\n    description = models.TextField(null=True, blank=True)\n    #participants = \n    updated =",
+        "detail": ".history.base.models_20231001094151",
+        "documentation": {}
+    },
+    {
+        "label": "Room",
+        "kind": 6,
+        "importPath": ".history.base.models_20231001094155",
+        "description": ".history.base.models_20231001094155",
+        "peekOfCode": "class Room(models.Model):\n    # host\n    # topic \n    name = models.CharField(max_length=200)\n    description = models.TextField(null=True, blank=True)\n    #participants = \n    updated = models.Date",
+        "detail": ".history.base.models_20231001094155",
+        "documentation": {}
+    },
+    {
+        "label": "Room",
+        "kind": 6,
+        "importPath": ".history.base.models_20231001094159",
+        "description": ".history.base.models_20231001094159",
+        "peekOfCode": "class Room(models.Model):\n    # host\n    # topic \n    name = models.CharField(max_length=200)\n    description = models.TextField(null=True, blank=True)\n    #participants = \n    updated = models.DateTimeF",
+        "detail": ".history.base.models_20231001094159",
+        "documentation": {}
+    },
+    {
+        "label": "Room",
+        "kind": 6,
+        "importPath": ".history.base.models_20231001094203",
+        "description": ".history.base.models_20231001094203",
+        "peekOfCode": "class Room(models.Model):\n    # host\n    # topic \n    name = models.CharField(max_length=200)\n    description = models.TextField(null=True, blank=True)\n    #participants = \n    updated = models.DateTimeField",
+        "detail": ".history.base.models_20231001094203",
+        "documentation": {}
+    },
+    {
+        "label": "Room",
+        "kind": 6,
+        "importPath": ".history.base.models_20231001094206",
+        "description": ".history.base.models_20231001094206",
+        "peekOfCode": "class Room(models.Model):\n    # host\n    # topic \n    name = models.CharField(max_length=200)\n    description = models.TextField(null=True, blank=True)\n    #participants = \n    updated = models.DateTimeField(auto_)",
+        "detail": ".history.base.models_20231001094206",
+        "documentation": {}
+    },
+    {
+        "label": "Room",
+        "kind": 6,
+        "importPath": ".history.base.models_20231001094210",
+        "description": ".history.base.models_20231001094210",
+        "peekOfCode": "class Room(models.Model):\n    # host\n    # topic \n    name = models.CharField(max_length=200)\n    description = models.TextField(null=True, blank=True)\n    #participants = \n    updated = models.DateTimeField(auto_now=True)",
+        "detail": ".history.base.models_20231001094210",
+        "documentation": {}
+    },
+    {
+        "label": "Room",
+        "kind": 6,
+        "importPath": ".history.base.models_20231001094213",
+        "description": ".history.base.models_20231001094213",
+        "peekOfCode": "class Room(models.Model):\n    # host\n    # topic \n    name = models.CharField(max_length=200)\n    description = models.TextField(null=True, blank=True)\n    #participants = \n    updated = models.DateTimeField(auto_now=True)",
+        "detail": ".history.base.models_20231001094213",
+        "documentation": {}
+    },
+    {
+        "label": "Room",
+        "kind": 6,
+        "importPath": ".history.base.models_20231001094216",
+        "description": ".history.base.models_20231001094216",
+        "peekOfCode": "class Room(models.Model):\n    # host\n    # topic \n    name = models.CharField(max_length=200)\n    description = models.TextField(null=True, blank=True)\n    #participants = \n    updated = models.DateTimeField(auto_now=True)",
+        "detail": ".history.base.models_20231001094216",
+        "documentation": {}
+    },
+    {
+        "label": "Room",
+        "kind": 6,
+        "importPath": ".history.base.models_20231001094225",
+        "description": ".history.base.models_20231001094225",
+        "peekOfCode": "class Room(models.Model):\n    # host\n    # topic \n    name = models.CharField(max_length=200)\n    description = models.TextField(null=True, blank=True)\n    #participants = \n    updated = models.DateTimeField(auto_now=True)\n    created = models.DateTimeField",
+        "detail": ".history.base.models_20231001094225",
+        "documentation": {}
+    },
+    {
+        "label": "Room",
+        "kind": 6,
+        "importPath": ".history.base.models_20231001094229",
+        "description": ".history.base.models_20231001094229",
+        "peekOfCode": "class Room(models.Model):\n    # host\n    # topic \n    name = models.CharField(max_length=200)\n    description = models.TextField(null=True, blank=True)\n    #participants = \n    updated = models.DateTimeField(auto_now=True)\n    created = models.DateTimeField(auto_n)",
+        "detail": ".history.base.models_20231001094229",
+        "documentation": {}
+    },
+    {
+        "label": "Room",
+        "kind": 6,
+        "importPath": ".history.base.models_20231001094231",
+        "description": ".history.base.models_20231001094231",
+        "peekOfCode": "class Room(models.Model):\n    # host\n    # topic \n    name = models.CharField(max_length=200)\n    description = models.TextField(null=True, blank=True)\n    #participants = \n    updated = models.DateTimeField(auto_now=True)\n    created = models.DateTimeField(auto_now)",
+        "detail": ".history.base.models_20231001094231",
+        "documentation": {}
+    },
+    {
+        "label": "Room",
+        "kind": 6,
+        "importPath": ".history.base.models_20231001094237",
+        "description": ".history.base.models_20231001094237",
+        "peekOfCode": "class Room(models.Model):\n    # host\n    # topic \n    name = models.CharField(max_length=200)\n    description = models.TextField(null=True, blank=True)\n    #participants = \n    updated = models.DateTimeField(auto_now=True)\n    created = models.DateTimeField(auto_now)_",
+        "detail": ".history.base.models_20231001094237",
+        "documentation": {}
+    },
+    {
+        "label": "Room",
+        "kind": 6,
+        "importPath": ".history.base.models_20231001094241",
+        "description": ".history.base.models_20231001094241",
+        "peekOfCode": "class Room(models.Model):\n    # host\n    # topic \n    name = models.CharField(max_length=200)\n    description = models.TextField(null=True, blank=True)\n    #participants = \n    updated = models.DateTimeField(auto_now=True)\n    created = models.DateTimeField(auto_now)",
+        "detail": ".history.base.models_20231001094241",
+        "documentation": {}
+    },
+    {
+        "label": "Room",
+        "kind": 6,
+        "importPath": ".history.base.models_20231001094244",
+        "description": ".history.base.models_20231001094244",
+        "peekOfCode": "class Room(models.Model):\n    # host\n    # topic \n    name = models.CharField(max_length=200)\n    description = models.TextField(null=True, blank=True)\n    #participants = \n    updated = models.DateTimeField(auto_now=True)\n    created = models.DateTimeField(auto_now_add)",
+        "detail": ".history.base.models_20231001094244",
+        "documentation": {}
+    },
+    {
+        "label": "Room",
+        "kind": 6,
+        "importPath": ".history.base.models_20231001094247",
+        "description": ".history.base.models_20231001094247",
+        "peekOfCode": "class Room(models.Model):\n    # host\n    # topic \n    name = models.CharField(max_length=200)\n    description = models.TextField(null=True, blank=True)\n    #participants = \n    updated = models.DateTimeField(auto_now=True)\n    created = models.DateTimeField(auto_now_add)",
+        "detail": ".history.base.models_20231001094247",
+        "documentation": {}
+    },
+    {
+        "label": "Room",
+        "kind": 6,
+        "importPath": ".history.base.models_20231001094251",
+        "description": ".history.base.models_20231001094251",
+        "peekOfCode": "class Room(models.Model):\n    # host\n    # topic \n    name = models.CharField(max_length=200)\n    description = models.TextField(null=True, blank=True)\n    #participants = \n    updated = models.DateTimeField(auto_now=True)\n    created = models.DateTimeField(auto_now_add=True)",
+        "detail": ".history.base.models_20231001094251",
+        "documentation": {}
+    },
+    {
+        "label": "Room",
+        "kind": 6,
+        "importPath": ".history.base.models_20231001094253",
+        "description": ".history.base.models_20231001094253",
+        "peekOfCode": "class Room(models.Model):\n    # host\n    # topic \n    name = models.CharField(max_length=200)\n    description = models.TextField(null=True, blank=True)\n    #participants = \n    updated = models.DateTimeField(auto_now=True)\n    created = models.DateTimeField(auto_now_add=True)",
+        "detail": ".history.base.models_20231001094253",
+        "documentation": {}
+    },
+    {
+        "label": "Room",
+        "kind": 6,
+        "importPath": ".history.base.models_20231001094321",
+        "description": ".history.base.models_20231001094321",
+        "peekOfCode": "class Room(models.Model):\n    # host\n    # topic \n    name = models.CharField(max_length=200)\n    description = models.TextField(null=True, blank=True)\n    #participants = \n    updated = models.DateTimeField(auto_now=True)\n    created = models.DateTimeField(auto_now_add=True)",
+        "detail": ".history.base.models_20231001094321",
+        "documentation": {}
+    },
+    {
+        "label": "Room",
+        "kind": 6,
+        "importPath": ".history.base.models_20231001094327",
+        "description": ".history.base.models_20231001094327",
+        "peekOfCode": "class Room(models.Model):\n    # host\n    # topic \n    name = models.CharField(max_length=200)\n    description = models.TextField(null=True, blank=True)\n    #participants = \n    updated = models.DateTimeField(auto_now=True)\n    created = models.DateTimeField(auto_now_add=True)\n    def __str__",
+        "detail": ".history.base.models_20231001094327",
+        "documentation": {}
+    },
+    {
+        "label": "Room",
+        "kind": 6,
+        "importPath": ".history.base.models_20231001094332",
+        "description": ".history.base.models_20231001094332",
+        "peekOfCode": "class Room(models.Model):\n    # host\n    # topic \n    name = models.CharField(max_length=200)\n    description = models.TextField(null=True, blank=True)\n    #participants = \n    updated = models.DateTimeField(auto_now=True)\n    created = models.DateTimeField(auto_now_add=True)\n    def __str__(self):",
+        "detail": ".history.base.models_20231001094332",
+        "documentation": {}
+    },
+    {
+        "label": "Room",
+        "kind": 6,
+        "importPath": ".history.base.models_20231001094337",
+        "description": ".history.base.models_20231001094337",
+        "peekOfCode": "class Room(models.Model):\n    # host\n    # topic \n    name = models.CharField(max_length=200)\n    description = models.TextField(null=True, blank=True)\n    #participants = \n    updated = models.DateTimeField(auto_now=True)\n    created = models.DateTimeField(auto_now_add=True)\n    def __str__(self):\n        return self.name",
+        "detail": ".history.base.models_20231001094337",
+        "documentation": {}
+    },
+    {
+        "label": "Room",
+        "kind": 6,
+        "importPath": ".history.base.models_20231001094344",
+        "description": ".history.base.models_20231001094344",
+        "peekOfCode": "class Room(models.Model):\n    # host\n    # topic \n    name = models.CharField(max_length=200)\n    description = models.TextField(null=True, blank=True)\n    #participants = \n    updated = models.DateTimeField(auto_now=True)\n    created = models.DateTimeField(auto_now_add=True)\n    def __str__(self):\n        return str(self.name",
+        "detail": ".history.base.models_20231001094344",
+        "documentation": {}
+    },
+    {
+        "label": "Room",
+        "kind": 6,
+        "importPath": ".history.base.models_20231001094347",
+        "description": ".history.base.models_20231001094347",
+        "peekOfCode": "class Room(models.Model):\n    # host\n    # topic \n    name = models.CharField(max_length=200)\n    description = models.TextField(null=True, blank=True)\n    #participants = \n    updated = models.DateTimeField(auto_now=True)\n    created = models.DateTimeField(auto_now_add=True)\n    def __str__(self):\n        return str(self.name)",
+        "detail": ".history.base.models_20231001094347",
+        "documentation": {}
+    },
+    {
+        "label": "Room",
+        "kind": 6,
+        "importPath": ".history.base.models_20231001094352",
+        "description": ".history.base.models_20231001094352",
+        "peekOfCode": "class Room(models.Model):\n    # host\n    # topic \n    name = models.CharField(max_length=200)\n    description = models.TextField(null=True, blank=True)\n    #participants = \n    updated = models.DateTimeField(auto_now=True)\n    created = models.DateTimeField(auto_now_add=True)\n    def __str__(self):\n        return self.name",
+        "detail": ".history.base.models_20231001094352",
         "documentation": {}
     },
     {
@@ -10180,12 +10952,30 @@
         "documentation": {}
     },
     {
+        "label": "Migration",
+        "kind": 6,
+        "importPath": "base.migrations.0001_initial",
+        "description": "base.migrations.0001_initial",
+        "peekOfCode": "class Migration(migrations.Migration):\n    initial = True\n    dependencies = []\n    operations = [\n        migrations.CreateModel(\n            name=\"Room\",\n            fields=[\n                (\n                    \"id\",\n                    models.BigAutoField(",
+        "detail": "base.migrations.0001_initial",
+        "documentation": {}
+    },
+    {
         "label": "BaseConfig",
         "kind": 6,
         "importPath": "base.apps",
         "description": "base.apps",
         "peekOfCode": "class BaseConfig(AppConfig):\n    default_auto_field = \"django.db.models.BigAutoField\"\n    name = \"base\"",
         "detail": "base.apps",
+        "documentation": {}
+    },
+    {
+        "label": "Room",
+        "kind": 6,
+        "importPath": "base.models",
+        "description": "base.models",
+        "peekOfCode": "class Room(models.Model):\n    # host\n    # topic \n    name = models.CharField(max_length=200)\n    description = models.TextField(null=True, blank=True)\n    #participants = \n    updated = models.DateTimeField(auto_now=True)\n    created = models.DateTimeField(auto_now_add=True)\n    def __str__(self):\n        return self.name",
+        "detail": "base.models",
         "documentation": {}
     },
     {
