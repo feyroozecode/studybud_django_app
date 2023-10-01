@@ -1,5 +1,605 @@
 [
     {
+        "label": "admin",
+        "importPath": "django.contrib",
+        "description": "django.contrib",
+        "isExtraImport": true,
+        "detail": "django.contrib",
+        "documentation": {}
+    },
+    {
+        "label": "admin",
+        "importPath": "django.contrib",
+        "description": "django.contrib",
+        "isExtraImport": true,
+        "detail": "django.contrib",
+        "documentation": {}
+    },
+    {
+        "label": "admin",
+        "importPath": "django.contrib",
+        "description": "django.contrib",
+        "isExtraImport": true,
+        "detail": "django.contrib",
+        "documentation": {}
+    },
+    {
+        "label": "admin",
+        "importPath": "django.contrib",
+        "description": "django.contrib",
+        "isExtraImport": true,
+        "detail": "django.contrib",
+        "documentation": {}
+    },
+    {
+        "label": "admin",
+        "importPath": "django.contrib",
+        "description": "django.contrib",
+        "isExtraImport": true,
+        "detail": "django.contrib",
+        "documentation": {}
+    },
+    {
+        "label": "admin",
+        "importPath": "django.contrib",
+        "description": "django.contrib",
+        "isExtraImport": true,
+        "detail": "django.contrib",
+        "documentation": {}
+    },
+    {
+        "label": "admin",
+        "importPath": "django.contrib",
+        "description": "django.contrib",
+        "isExtraImport": true,
+        "detail": "django.contrib",
+        "documentation": {}
+    },
+    {
+        "label": "admin",
+        "importPath": "django.contrib",
+        "description": "django.contrib",
+        "isExtraImport": true,
+        "detail": "django.contrib",
+        "documentation": {}
+    },
+    {
+        "label": "admin",
+        "importPath": "django.contrib",
+        "description": "django.contrib",
+        "isExtraImport": true,
+        "detail": "django.contrib",
+        "documentation": {}
+    },
+    {
+        "label": "admin",
+        "importPath": "django.contrib",
+        "description": "django.contrib",
+        "isExtraImport": true,
+        "detail": "django.contrib",
+        "documentation": {}
+    },
+    {
+        "label": "admin",
+        "importPath": "django.contrib",
+        "description": "django.contrib",
+        "isExtraImport": true,
+        "detail": "django.contrib",
+        "documentation": {}
+    },
+    {
+        "label": "admin",
+        "importPath": "django.contrib",
+        "description": "django.contrib",
+        "isExtraImport": true,
+        "detail": "django.contrib",
+        "documentation": {}
+    },
+    {
+        "label": "admin",
+        "importPath": "django.contrib",
+        "description": "django.contrib",
+        "isExtraImport": true,
+        "detail": "django.contrib",
+        "documentation": {}
+    },
+    {
+        "label": "admin",
+        "importPath": "django.contrib",
+        "description": "django.contrib",
+        "isExtraImport": true,
+        "detail": "django.contrib",
+        "documentation": {}
+    },
+    {
+        "label": "admin",
+        "importPath": "django.contrib",
+        "description": "django.contrib",
+        "isExtraImport": true,
+        "detail": "django.contrib",
+        "documentation": {}
+    },
+    {
+        "label": "admin",
+        "importPath": "django.contrib",
+        "description": "django.contrib",
+        "isExtraImport": true,
+        "detail": "django.contrib",
+        "documentation": {}
+    },
+    {
+        "label": "admin",
+        "importPath": "django.contrib",
+        "description": "django.contrib",
+        "isExtraImport": true,
+        "detail": "django.contrib",
+        "documentation": {}
+    },
+    {
+        "label": "admin",
+        "importPath": "django.contrib",
+        "description": "django.contrib",
+        "isExtraImport": true,
+        "detail": "django.contrib",
+        "documentation": {}
+    },
+    {
+        "label": "admin",
+        "importPath": "django.contrib",
+        "description": "django.contrib",
+        "isExtraImport": true,
+        "detail": "django.contrib",
+        "documentation": {}
+    },
+    {
+        "label": "admin",
+        "importPath": "django.contrib",
+        "description": "django.contrib",
+        "isExtraImport": true,
+        "detail": "django.contrib",
+        "documentation": {}
+    },
+    {
+        "label": "admin",
+        "importPath": "django.contrib",
+        "description": "django.contrib",
+        "isExtraImport": true,
+        "detail": "django.contrib",
+        "documentation": {}
+    },
+    {
+        "label": "admin",
+        "importPath": "django.contrib",
+        "description": "django.contrib",
+        "isExtraImport": true,
+        "detail": "django.contrib",
+        "documentation": {}
+    },
+    {
+        "label": "admin",
+        "importPath": "django.contrib",
+        "description": "django.contrib",
+        "isExtraImport": true,
+        "detail": "django.contrib",
+        "documentation": {}
+    },
+    {
+        "label": "admin",
+        "importPath": "django.contrib",
+        "description": "django.contrib",
+        "isExtraImport": true,
+        "detail": "django.contrib",
+        "documentation": {}
+    },
+    {
+        "label": "admin",
+        "importPath": "django.contrib",
+        "description": "django.contrib",
+        "isExtraImport": true,
+        "detail": "django.contrib",
+        "documentation": {}
+    },
+    {
+        "label": "admin",
+        "importPath": "django.contrib",
+        "description": "django.contrib",
+        "isExtraImport": true,
+        "detail": "django.contrib",
+        "documentation": {}
+    },
+    {
+        "label": "admin",
+        "importPath": "django.contrib",
+        "description": "django.contrib",
+        "isExtraImport": true,
+        "detail": "django.contrib",
+        "documentation": {}
+    },
+    {
+        "label": "admin",
+        "importPath": "django.contrib",
+        "description": "django.contrib",
+        "isExtraImport": true,
+        "detail": "django.contrib",
+        "documentation": {}
+    },
+    {
+        "label": "admin",
+        "importPath": "django.contrib",
+        "description": "django.contrib",
+        "isExtraImport": true,
+        "detail": "django.contrib",
+        "documentation": {}
+    },
+    {
+        "label": "admin",
+        "importPath": "django.contrib",
+        "description": "django.contrib",
+        "isExtraImport": true,
+        "detail": "django.contrib",
+        "documentation": {}
+    },
+    {
+        "label": "admin",
+        "importPath": "django.contrib",
+        "description": "django.contrib",
+        "isExtraImport": true,
+        "detail": "django.contrib",
+        "documentation": {}
+    },
+    {
+        "label": "admin",
+        "importPath": "django.contrib",
+        "description": "django.contrib",
+        "isExtraImport": true,
+        "detail": "django.contrib",
+        "documentation": {}
+    },
+    {
+        "label": "admin",
+        "importPath": "django.contrib",
+        "description": "django.contrib",
+        "isExtraImport": true,
+        "detail": "django.contrib",
+        "documentation": {}
+    },
+    {
+        "label": "admin",
+        "importPath": "django.contrib",
+        "description": "django.contrib",
+        "isExtraImport": true,
+        "detail": "django.contrib",
+        "documentation": {}
+    },
+    {
+        "label": "admin",
+        "importPath": "django.contrib",
+        "description": "django.contrib",
+        "isExtraImport": true,
+        "detail": "django.contrib",
+        "documentation": {}
+    },
+    {
+        "label": "admin",
+        "importPath": "django.contrib",
+        "description": "django.contrib",
+        "isExtraImport": true,
+        "detail": "django.contrib",
+        "documentation": {}
+    },
+    {
+        "label": "admin",
+        "importPath": "django.contrib",
+        "description": "django.contrib",
+        "isExtraImport": true,
+        "detail": "django.contrib",
+        "documentation": {}
+    },
+    {
+        "label": "admin",
+        "importPath": "django.contrib",
+        "description": "django.contrib",
+        "isExtraImport": true,
+        "detail": "django.contrib",
+        "documentation": {}
+    },
+    {
+        "label": "admin",
+        "importPath": "django.contrib",
+        "description": "django.contrib",
+        "isExtraImport": true,
+        "detail": "django.contrib",
+        "documentation": {}
+    },
+    {
+        "label": "admin",
+        "importPath": "django.contrib",
+        "description": "django.contrib",
+        "isExtraImport": true,
+        "detail": "django.contrib",
+        "documentation": {}
+    },
+    {
+        "label": "admin",
+        "importPath": "django.contrib",
+        "description": "django.contrib",
+        "isExtraImport": true,
+        "detail": "django.contrib",
+        "documentation": {}
+    },
+    {
+        "label": "admin",
+        "importPath": "django.contrib",
+        "description": "django.contrib",
+        "isExtraImport": true,
+        "detail": "django.contrib",
+        "documentation": {}
+    },
+    {
+        "label": "admin",
+        "importPath": "django.contrib",
+        "description": "django.contrib",
+        "isExtraImport": true,
+        "detail": "django.contrib",
+        "documentation": {}
+    },
+    {
+        "label": "admin",
+        "importPath": "django.contrib",
+        "description": "django.contrib",
+        "isExtraImport": true,
+        "detail": "django.contrib",
+        "documentation": {}
+    },
+    {
+        "label": "admin",
+        "importPath": "django.contrib",
+        "description": "django.contrib",
+        "isExtraImport": true,
+        "detail": "django.contrib",
+        "documentation": {}
+    },
+    {
+        "label": "admin",
+        "importPath": "django.contrib",
+        "description": "django.contrib",
+        "isExtraImport": true,
+        "detail": "django.contrib",
+        "documentation": {}
+    },
+    {
+        "label": "admin",
+        "importPath": "django.contrib",
+        "description": "django.contrib",
+        "isExtraImport": true,
+        "detail": "django.contrib",
+        "documentation": {}
+    },
+    {
+        "label": "admin",
+        "importPath": "django.contrib",
+        "description": "django.contrib",
+        "isExtraImport": true,
+        "detail": "django.contrib",
+        "documentation": {}
+    },
+    {
+        "label": "admin",
+        "importPath": "django.contrib",
+        "description": "django.contrib",
+        "isExtraImport": true,
+        "detail": "django.contrib",
+        "documentation": {}
+    },
+    {
+        "label": "admin",
+        "importPath": "django.contrib",
+        "description": "django.contrib",
+        "isExtraImport": true,
+        "detail": "django.contrib",
+        "documentation": {}
+    },
+    {
+        "label": "admin",
+        "importPath": "django.contrib",
+        "description": "django.contrib",
+        "isExtraImport": true,
+        "detail": "django.contrib",
+        "documentation": {}
+    },
+    {
+        "label": "admin",
+        "importPath": "django.contrib",
+        "description": "django.contrib",
+        "isExtraImport": true,
+        "detail": "django.contrib",
+        "documentation": {}
+    },
+    {
+        "label": "admin",
+        "importPath": "django.contrib",
+        "description": "django.contrib",
+        "isExtraImport": true,
+        "detail": "django.contrib",
+        "documentation": {}
+    },
+    {
+        "label": "admin",
+        "importPath": "django.contrib",
+        "description": "django.contrib",
+        "isExtraImport": true,
+        "detail": "django.contrib",
+        "documentation": {}
+    },
+    {
+        "label": "admin",
+        "importPath": "django.contrib",
+        "description": "django.contrib",
+        "isExtraImport": true,
+        "detail": "django.contrib",
+        "documentation": {}
+    },
+    {
+        "label": "admin",
+        "importPath": "django.contrib",
+        "description": "django.contrib",
+        "isExtraImport": true,
+        "detail": "django.contrib",
+        "documentation": {}
+    },
+    {
+        "label": "admin",
+        "importPath": "django.contrib",
+        "description": "django.contrib",
+        "isExtraImport": true,
+        "detail": "django.contrib",
+        "documentation": {}
+    },
+    {
+        "label": "admin",
+        "importPath": "django.contrib",
+        "description": "django.contrib",
+        "isExtraImport": true,
+        "detail": "django.contrib",
+        "documentation": {}
+    },
+    {
+        "label": "admin",
+        "importPath": "django.contrib",
+        "description": "django.contrib",
+        "isExtraImport": true,
+        "detail": "django.contrib",
+        "documentation": {}
+    },
+    {
+        "label": "admin",
+        "importPath": "django.contrib",
+        "description": "django.contrib",
+        "isExtraImport": true,
+        "detail": "django.contrib",
+        "documentation": {}
+    },
+    {
+        "label": "admin",
+        "importPath": "django.contrib",
+        "description": "django.contrib",
+        "isExtraImport": true,
+        "detail": "django.contrib",
+        "documentation": {}
+    },
+    {
+        "label": "admin",
+        "importPath": "django.contrib",
+        "description": "django.contrib",
+        "isExtraImport": true,
+        "detail": "django.contrib",
+        "documentation": {}
+    },
+    {
+        "label": "admin",
+        "importPath": "django.contrib",
+        "description": "django.contrib",
+        "isExtraImport": true,
+        "detail": "django.contrib",
+        "documentation": {}
+    },
+    {
+        "label": "admin",
+        "importPath": "django.contrib",
+        "description": "django.contrib",
+        "isExtraImport": true,
+        "detail": "django.contrib",
+        "documentation": {}
+    },
+    {
+        "label": "admin",
+        "importPath": "django.contrib",
+        "description": "django.contrib",
+        "isExtraImport": true,
+        "detail": "django.contrib",
+        "documentation": {}
+    },
+    {
+        "label": "admin",
+        "importPath": "django.contrib",
+        "description": "django.contrib",
+        "isExtraImport": true,
+        "detail": "django.contrib",
+        "documentation": {}
+    },
+    {
+        "label": "admin",
+        "importPath": "django.contrib",
+        "description": "django.contrib",
+        "isExtraImport": true,
+        "detail": "django.contrib",
+        "documentation": {}
+    },
+    {
+        "label": "admin",
+        "importPath": "django.contrib",
+        "description": "django.contrib",
+        "isExtraImport": true,
+        "detail": "django.contrib",
+        "documentation": {}
+    },
+    {
+        "label": "models",
+        "importPath": "django.db",
+        "description": "django.db",
+        "isExtraImport": true,
+        "detail": "django.db",
+        "documentation": {}
+    },
+    {
+        "label": "models",
+        "importPath": "django.db",
+        "description": "django.db",
+        "isExtraImport": true,
+        "detail": "django.db",
+        "documentation": {}
+    },
+    {
+        "label": "models",
+        "importPath": "django.db",
+        "description": "django.db",
+        "isExtraImport": true,
+        "detail": "django.db",
+        "documentation": {}
+    },
+    {
+        "label": "models",
+        "importPath": "django.db",
+        "description": "django.db",
+        "isExtraImport": true,
+        "detail": "django.db",
+        "documentation": {}
+    },
+    {
+        "label": "models",
+        "importPath": "django.db",
+        "description": "django.db",
+        "isExtraImport": true,
+        "detail": "django.db",
+        "documentation": {}
+    },
+    {
+        "label": "models",
+        "importPath": "django.db",
+        "description": "django.db",
+        "isExtraImport": true,
+        "detail": "django.db",
+        "documentation": {}
+    },
+    {
+        "label": "models",
+        "importPath": "django.db",
+        "description": "django.db",
+        "isExtraImport": true,
+        "detail": "django.db",
+        "documentation": {}
+    },
+    {
         "label": "models",
         "importPath": "django.db",
         "description": "django.db",
@@ -3808,494 +4408,6 @@
         "documentation": {}
     },
     {
-        "label": "admin",
-        "importPath": "django.contrib",
-        "description": "django.contrib",
-        "isExtraImport": true,
-        "detail": "django.contrib",
-        "documentation": {}
-    },
-    {
-        "label": "admin",
-        "importPath": "django.contrib",
-        "description": "django.contrib",
-        "isExtraImport": true,
-        "detail": "django.contrib",
-        "documentation": {}
-    },
-    {
-        "label": "admin",
-        "importPath": "django.contrib",
-        "description": "django.contrib",
-        "isExtraImport": true,
-        "detail": "django.contrib",
-        "documentation": {}
-    },
-    {
-        "label": "admin",
-        "importPath": "django.contrib",
-        "description": "django.contrib",
-        "isExtraImport": true,
-        "detail": "django.contrib",
-        "documentation": {}
-    },
-    {
-        "label": "admin",
-        "importPath": "django.contrib",
-        "description": "django.contrib",
-        "isExtraImport": true,
-        "detail": "django.contrib",
-        "documentation": {}
-    },
-    {
-        "label": "admin",
-        "importPath": "django.contrib",
-        "description": "django.contrib",
-        "isExtraImport": true,
-        "detail": "django.contrib",
-        "documentation": {}
-    },
-    {
-        "label": "admin",
-        "importPath": "django.contrib",
-        "description": "django.contrib",
-        "isExtraImport": true,
-        "detail": "django.contrib",
-        "documentation": {}
-    },
-    {
-        "label": "admin",
-        "importPath": "django.contrib",
-        "description": "django.contrib",
-        "isExtraImport": true,
-        "detail": "django.contrib",
-        "documentation": {}
-    },
-    {
-        "label": "admin",
-        "importPath": "django.contrib",
-        "description": "django.contrib",
-        "isExtraImport": true,
-        "detail": "django.contrib",
-        "documentation": {}
-    },
-    {
-        "label": "admin",
-        "importPath": "django.contrib",
-        "description": "django.contrib",
-        "isExtraImport": true,
-        "detail": "django.contrib",
-        "documentation": {}
-    },
-    {
-        "label": "admin",
-        "importPath": "django.contrib",
-        "description": "django.contrib",
-        "isExtraImport": true,
-        "detail": "django.contrib",
-        "documentation": {}
-    },
-    {
-        "label": "admin",
-        "importPath": "django.contrib",
-        "description": "django.contrib",
-        "isExtraImport": true,
-        "detail": "django.contrib",
-        "documentation": {}
-    },
-    {
-        "label": "admin",
-        "importPath": "django.contrib",
-        "description": "django.contrib",
-        "isExtraImport": true,
-        "detail": "django.contrib",
-        "documentation": {}
-    },
-    {
-        "label": "admin",
-        "importPath": "django.contrib",
-        "description": "django.contrib",
-        "isExtraImport": true,
-        "detail": "django.contrib",
-        "documentation": {}
-    },
-    {
-        "label": "admin",
-        "importPath": "django.contrib",
-        "description": "django.contrib",
-        "isExtraImport": true,
-        "detail": "django.contrib",
-        "documentation": {}
-    },
-    {
-        "label": "admin",
-        "importPath": "django.contrib",
-        "description": "django.contrib",
-        "isExtraImport": true,
-        "detail": "django.contrib",
-        "documentation": {}
-    },
-    {
-        "label": "admin",
-        "importPath": "django.contrib",
-        "description": "django.contrib",
-        "isExtraImport": true,
-        "detail": "django.contrib",
-        "documentation": {}
-    },
-    {
-        "label": "admin",
-        "importPath": "django.contrib",
-        "description": "django.contrib",
-        "isExtraImport": true,
-        "detail": "django.contrib",
-        "documentation": {}
-    },
-    {
-        "label": "admin",
-        "importPath": "django.contrib",
-        "description": "django.contrib",
-        "isExtraImport": true,
-        "detail": "django.contrib",
-        "documentation": {}
-    },
-    {
-        "label": "admin",
-        "importPath": "django.contrib",
-        "description": "django.contrib",
-        "isExtraImport": true,
-        "detail": "django.contrib",
-        "documentation": {}
-    },
-    {
-        "label": "admin",
-        "importPath": "django.contrib",
-        "description": "django.contrib",
-        "isExtraImport": true,
-        "detail": "django.contrib",
-        "documentation": {}
-    },
-    {
-        "label": "admin",
-        "importPath": "django.contrib",
-        "description": "django.contrib",
-        "isExtraImport": true,
-        "detail": "django.contrib",
-        "documentation": {}
-    },
-    {
-        "label": "admin",
-        "importPath": "django.contrib",
-        "description": "django.contrib",
-        "isExtraImport": true,
-        "detail": "django.contrib",
-        "documentation": {}
-    },
-    {
-        "label": "admin",
-        "importPath": "django.contrib",
-        "description": "django.contrib",
-        "isExtraImport": true,
-        "detail": "django.contrib",
-        "documentation": {}
-    },
-    {
-        "label": "admin",
-        "importPath": "django.contrib",
-        "description": "django.contrib",
-        "isExtraImport": true,
-        "detail": "django.contrib",
-        "documentation": {}
-    },
-    {
-        "label": "admin",
-        "importPath": "django.contrib",
-        "description": "django.contrib",
-        "isExtraImport": true,
-        "detail": "django.contrib",
-        "documentation": {}
-    },
-    {
-        "label": "admin",
-        "importPath": "django.contrib",
-        "description": "django.contrib",
-        "isExtraImport": true,
-        "detail": "django.contrib",
-        "documentation": {}
-    },
-    {
-        "label": "admin",
-        "importPath": "django.contrib",
-        "description": "django.contrib",
-        "isExtraImport": true,
-        "detail": "django.contrib",
-        "documentation": {}
-    },
-    {
-        "label": "admin",
-        "importPath": "django.contrib",
-        "description": "django.contrib",
-        "isExtraImport": true,
-        "detail": "django.contrib",
-        "documentation": {}
-    },
-    {
-        "label": "admin",
-        "importPath": "django.contrib",
-        "description": "django.contrib",
-        "isExtraImport": true,
-        "detail": "django.contrib",
-        "documentation": {}
-    },
-    {
-        "label": "admin",
-        "importPath": "django.contrib",
-        "description": "django.contrib",
-        "isExtraImport": true,
-        "detail": "django.contrib",
-        "documentation": {}
-    },
-    {
-        "label": "admin",
-        "importPath": "django.contrib",
-        "description": "django.contrib",
-        "isExtraImport": true,
-        "detail": "django.contrib",
-        "documentation": {}
-    },
-    {
-        "label": "admin",
-        "importPath": "django.contrib",
-        "description": "django.contrib",
-        "isExtraImport": true,
-        "detail": "django.contrib",
-        "documentation": {}
-    },
-    {
-        "label": "admin",
-        "importPath": "django.contrib",
-        "description": "django.contrib",
-        "isExtraImport": true,
-        "detail": "django.contrib",
-        "documentation": {}
-    },
-    {
-        "label": "admin",
-        "importPath": "django.contrib",
-        "description": "django.contrib",
-        "isExtraImport": true,
-        "detail": "django.contrib",
-        "documentation": {}
-    },
-    {
-        "label": "admin",
-        "importPath": "django.contrib",
-        "description": "django.contrib",
-        "isExtraImport": true,
-        "detail": "django.contrib",
-        "documentation": {}
-    },
-    {
-        "label": "admin",
-        "importPath": "django.contrib",
-        "description": "django.contrib",
-        "isExtraImport": true,
-        "detail": "django.contrib",
-        "documentation": {}
-    },
-    {
-        "label": "admin",
-        "importPath": "django.contrib",
-        "description": "django.contrib",
-        "isExtraImport": true,
-        "detail": "django.contrib",
-        "documentation": {}
-    },
-    {
-        "label": "admin",
-        "importPath": "django.contrib",
-        "description": "django.contrib",
-        "isExtraImport": true,
-        "detail": "django.contrib",
-        "documentation": {}
-    },
-    {
-        "label": "admin",
-        "importPath": "django.contrib",
-        "description": "django.contrib",
-        "isExtraImport": true,
-        "detail": "django.contrib",
-        "documentation": {}
-    },
-    {
-        "label": "admin",
-        "importPath": "django.contrib",
-        "description": "django.contrib",
-        "isExtraImport": true,
-        "detail": "django.contrib",
-        "documentation": {}
-    },
-    {
-        "label": "admin",
-        "importPath": "django.contrib",
-        "description": "django.contrib",
-        "isExtraImport": true,
-        "detail": "django.contrib",
-        "documentation": {}
-    },
-    {
-        "label": "admin",
-        "importPath": "django.contrib",
-        "description": "django.contrib",
-        "isExtraImport": true,
-        "detail": "django.contrib",
-        "documentation": {}
-    },
-    {
-        "label": "admin",
-        "importPath": "django.contrib",
-        "description": "django.contrib",
-        "isExtraImport": true,
-        "detail": "django.contrib",
-        "documentation": {}
-    },
-    {
-        "label": "admin",
-        "importPath": "django.contrib",
-        "description": "django.contrib",
-        "isExtraImport": true,
-        "detail": "django.contrib",
-        "documentation": {}
-    },
-    {
-        "label": "admin",
-        "importPath": "django.contrib",
-        "description": "django.contrib",
-        "isExtraImport": true,
-        "detail": "django.contrib",
-        "documentation": {}
-    },
-    {
-        "label": "admin",
-        "importPath": "django.contrib",
-        "description": "django.contrib",
-        "isExtraImport": true,
-        "detail": "django.contrib",
-        "documentation": {}
-    },
-    {
-        "label": "admin",
-        "importPath": "django.contrib",
-        "description": "django.contrib",
-        "isExtraImport": true,
-        "detail": "django.contrib",
-        "documentation": {}
-    },
-    {
-        "label": "admin",
-        "importPath": "django.contrib",
-        "description": "django.contrib",
-        "isExtraImport": true,
-        "detail": "django.contrib",
-        "documentation": {}
-    },
-    {
-        "label": "admin",
-        "importPath": "django.contrib",
-        "description": "django.contrib",
-        "isExtraImport": true,
-        "detail": "django.contrib",
-        "documentation": {}
-    },
-    {
-        "label": "admin",
-        "importPath": "django.contrib",
-        "description": "django.contrib",
-        "isExtraImport": true,
-        "detail": "django.contrib",
-        "documentation": {}
-    },
-    {
-        "label": "admin",
-        "importPath": "django.contrib",
-        "description": "django.contrib",
-        "isExtraImport": true,
-        "detail": "django.contrib",
-        "documentation": {}
-    },
-    {
-        "label": "admin",
-        "importPath": "django.contrib",
-        "description": "django.contrib",
-        "isExtraImport": true,
-        "detail": "django.contrib",
-        "documentation": {}
-    },
-    {
-        "label": "admin",
-        "importPath": "django.contrib",
-        "description": "django.contrib",
-        "isExtraImport": true,
-        "detail": "django.contrib",
-        "documentation": {}
-    },
-    {
-        "label": "admin",
-        "importPath": "django.contrib",
-        "description": "django.contrib",
-        "isExtraImport": true,
-        "detail": "django.contrib",
-        "documentation": {}
-    },
-    {
-        "label": "admin",
-        "importPath": "django.contrib",
-        "description": "django.contrib",
-        "isExtraImport": true,
-        "detail": "django.contrib",
-        "documentation": {}
-    },
-    {
-        "label": "admin",
-        "importPath": "django.contrib",
-        "description": "django.contrib",
-        "isExtraImport": true,
-        "detail": "django.contrib",
-        "documentation": {}
-    },
-    {
-        "label": "admin",
-        "importPath": "django.contrib",
-        "description": "django.contrib",
-        "isExtraImport": true,
-        "detail": "django.contrib",
-        "documentation": {}
-    },
-    {
-        "label": "admin",
-        "importPath": "django.contrib",
-        "description": "django.contrib",
-        "isExtraImport": true,
-        "detail": "django.contrib",
-        "documentation": {}
-    },
-    {
-        "label": "admin",
-        "importPath": "django.contrib",
-        "description": "django.contrib",
-        "isExtraImport": true,
-        "detail": "django.contrib",
-        "documentation": {}
-    },
-    {
-        "label": "admin",
-        "importPath": "django.contrib",
-        "description": "django.contrib",
-        "isExtraImport": true,
-        "detail": "django.contrib",
-        "documentation": {}
-    },
-    {
         "label": "AppConfig",
         "importPath": "django.apps",
         "description": "django.apps",
@@ -4748,6 +4860,69 @@
         "description": ".history.base.models_20231001094352",
         "peekOfCode": "class Room(models.Model):\n    # host\n    # topic \n    name = models.CharField(max_length=200)\n    description = models.TextField(null=True, blank=True)\n    #participants = \n    updated = models.DateTimeField(auto_now=True)\n    created = models.DateTimeField(auto_now_add=True)\n    def __str__(self):\n        return self.name",
         "detail": ".history.base.models_20231001094352",
+        "documentation": {}
+    },
+    {
+        "label": "Room",
+        "kind": 6,
+        "importPath": ".history.base.models_20231001135731",
+        "description": ".history.base.models_20231001135731",
+        "peekOfCode": "class Room(models.Model):\n    # host\n    # topic \n    name = models.CharField(max_length=200)\n    description = models.TextField(null=True, blank=True)\n    #participants = \n    updated = models.DateTimeField(auto_now=True)\n    created = models.DateTimeField(auto_now_add=True)\n    def __str__(self):\n        return self.name",
+        "detail": ".history.base.models_20231001135731",
+        "documentation": {}
+    },
+    {
+        "label": "Room",
+        "kind": 6,
+        "importPath": ".history.base.models_20231001135736",
+        "description": ".history.base.models_20231001135736",
+        "peekOfCode": "class Room(models.Model):\n    # host\n    # topic \n    name = models.CharField(max_length=200)\n    description = models.TextField(null=True, blank=True)\n    #participants = \n    updated = models.DateTimeField(auto_now=True)\n    created = models.DateTimeField(auto_now_add=True)\n    def __str__(self):\n        return self.name",
+        "detail": ".history.base.models_20231001135736",
+        "documentation": {}
+    },
+    {
+        "label": "Room",
+        "kind": 6,
+        "importPath": ".history.base.models_20231001135827",
+        "description": ".history.base.models_20231001135827",
+        "peekOfCode": "class Room(models.Model):\n    # host\n    # topic \n    name = models.CharField(max_length=200)\n    description = models.TextField(null=True, blank=True)\n    #participants = \n    updated = models.DateTimeField(auto_now=True)\n    created = models.DateTimeField(auto_now_add=True)\n    def __str__(self):\n        return self.name",
+        "detail": ".history.base.models_20231001135827",
+        "documentation": {}
+    },
+    {
+        "label": "Room",
+        "kind": 6,
+        "importPath": ".history.base.models_20231001135931",
+        "description": ".history.base.models_20231001135931",
+        "peekOfCode": "class Room(models.Model):\n    # host\n    # topic \n    name = models.CharField(max_length=200)\n    description = models.TextField(null=True, blank=True)\n    #participants = \n    updated = models.DateTimeField(auto_now=True)\n    created = models.DateTimeField(auto_now_add=True)\n    def __str__(self):\n        return self.name",
+        "detail": ".history.base.models_20231001135931",
+        "documentation": {}
+    },
+    {
+        "label": "Room",
+        "kind": 6,
+        "importPath": ".history.base.models_20231001135934",
+        "description": ".history.base.models_20231001135934",
+        "peekOfCode": "class Room(models.Model):\n    # host\n    # topic \n    name = models.CharField(max_length=200)\n    description = models.TextField(null=True, blank=True)\n    #participants = \n    updated = models.DateTimeField(auto_now=True)\n    created = models.DateTimeField(auto_now_add=True)\n    def __str__(self):\n        return self.name",
+        "detail": ".history.base.models_20231001135934",
+        "documentation": {}
+    },
+    {
+        "label": "Room",
+        "kind": 6,
+        "importPath": ".history.base.models_20231001142534",
+        "description": ".history.base.models_20231001142534",
+        "peekOfCode": "class Room(models.Model):\n    # host\n    # topic \n    name = models.CharField(max_length=200)\n    description = models.TextField(null=True, blank=True)\n    #participants = \n    updated = models.DateTimeField(auto_now=True)\n    created = models.DateTimeField(auto_now_add=True)\n    def __str__(self):\n        return self.name",
+        "detail": ".history.base.models_20231001142534",
+        "documentation": {}
+    },
+    {
+        "label": "Room",
+        "kind": 6,
+        "importPath": ".history.base.models_20231001142546",
+        "description": ".history.base.models_20231001142546",
+        "peekOfCode": "class Room(models.Model):\n    # host\n    # topic \n    name = models.CharField(max_length=200)\n    description = models.TextField(null=True, blank=True)\n    #participants = \n    updated = models.DateTimeField(auto_now=True)\n    created = models.DateTimeField(auto_now_add=True)\n    def __str__(self):\n        return self.name",
+        "detail": ".history.base.models_20231001142546",
         "documentation": {}
     },
     {
