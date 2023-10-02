@@ -6,14 +6,16 @@
 <div>
     Home Page 
     <br />
-    <a href="/room"> go to home room page </a>
 
     <div>
         {% for room in rooms %}
             <div>
-             
+                
+                <span> @{{ room.host.username }} </span>
                 <a href=" {% url 'room' room.id %} "> <!-- href="/room/{{room.id}}" -->
-                    <h5>  <strong>{{ room.id }}</strong> --  {{ room.name }} </h5>
+                    <h5>  <strong> {{ room.id }}</strong> --  {{ room.name }} </h5>
+                    <small> {{ room.topic.name }} </small>
+                    <hr>
                 </a>
 
             </div>

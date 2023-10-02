@@ -3,11 +3,6 @@ from django.http import HttpResponse
 from .models import Room
 
 # Create your views here.  
-static_rooms = [
-    { 'id': 1, 'name': 'Lets Learn VueJs' },
-    { 'id': 2, 'name': 'Create a Tuorial' },
-    { 'id': 3, 'name': 'Code my own Django Rest API' },
-]
 
 
 def home(request):
