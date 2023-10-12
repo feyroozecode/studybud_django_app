@@ -1,2 +1,2 @@
 # studybud_django_app
-A Django Project based on traversymedia long video by dennislvy
+A Discord like App on  Django , Learning Based Project based on Django 7Hours cours on TraversyMedia Youtube Channel, course by Dennis Ivy
